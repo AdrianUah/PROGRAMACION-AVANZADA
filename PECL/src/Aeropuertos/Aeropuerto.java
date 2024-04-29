@@ -122,4 +122,54 @@ public class Aeropuerto {
     public void Hangar(){
         
     }
+    /*
+    import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.core.appender.RollingFileAppender;
+import org.apache.logging.log4j.core.Layout;
+import org.apache.logging.log4j.core.LoggerContext;
+import org.apache.logging.log4j.core.appender.FileAppender;
+import org.apache.logging.log4j.core.layout.PatternLayout;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class TimestampLogger {
+
+    private static final Logger LOG = LogManager.getLogger(TimestampLogger.class);
+
+    public static void main(String[] args) {
+        configureLogger();
+        logMessage("Este es un mensaje de prueba.");
+    }
+
+    private static void configureLogger() {
+        LoggerContext context = (LoggerContext) LogManager.getContext(false);
+        org.apache.logging.log4j.core.config.Configuration config = context.getConfiguration();
+
+        Layout<String> layout = PatternLayout.newBuilder()
+                .withPattern("%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n")
+                .build();
+
+        AppenderComponentBuilder appenderBuilder = RollingFileAppender.newBuilder()
+                .withFileName("logs\\timestamp.log")
+                .withAppend(true)
+                .withLayout(layout)
+                .withName("TimestampAppender")
+                .build();
+
+        appenderBuilder.start();
+        config.addAppender(appenderBuilder.build());
+
+        context.updateLoggers();
+    }
+
+    private static void logMessage(String message) {
+        LOG.info(message);
+    }
+}
+    
+    
+    //Este código configura un archivo de registro llamado timestamp.log en la carpeta logs. Cada línea del archivo de registro contendrá la marca de tiempo en el formato yyyy-MM-dd HH:mm:ss.SSS. Puedes modificar el formato de la marca de tiempo cambiando el patrón en la configuración del PatternLayout.Este código configura un archivo de registro llamado timestamp.log en la carpeta logs. Cada línea del archivo de registro contendrá la marca de tiempo en el formato yyyy-MM-dd HH:mm:ss.SSS. Puedes modificar el formato de la marca de tiempo cambiando el patrón en la configuración del PatternLayout.
+    */
 }
