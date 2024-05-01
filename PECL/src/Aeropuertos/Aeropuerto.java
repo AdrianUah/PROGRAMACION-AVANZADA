@@ -6,8 +6,10 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.Semaphore;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import log.Logg;
 
 public class Aeropuerto {
+    private static final org.apache.log4j.Logger LOG = Logg.getLogger(Main.class);
     private int id,nviajeros;
     private int npistaslibres=4;
     private Semaphore em1=new Semaphore(1);
@@ -22,7 +24,12 @@ public class Aeropuerto {
     public Aeropuerto(int id){
         this.id=id;
     }
-
+    
+    public int getPasajeros()
+    {
+        return nviajeros;
+    }
+    
     public int getId() {
         return id;
     }
@@ -31,11 +38,11 @@ public class Aeropuerto {
         return nviajeros;
     }
     
-    public void conducir(){      
+    public void conducir(String id){      
         try {
             Thread.sleep((new Random().nextInt(6)+5)*1000);
         } catch (InterruptedException ex) {
-            Logger.getLogger(Aeropuerto.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(Aeropuerto.class.getName()).log(Level.SEVERE, null, ex);//No lo cambio pero es mejor un error
         }
     }
         
@@ -45,6 +52,7 @@ public class Aeropuerto {
         try {
             em1.acquire();
             npasajeros=new Random().nextInt(51);
+            LOG.info(id+" recogio: " +npasajeros);
             //System.out.println("P1-"+id+" hay x pasajeros en la estacion "+npasajeros);
             Thread.sleep((new Random().nextInt(4)+2)*1000);
             
@@ -59,7 +67,8 @@ public class Aeropuerto {
     
     public synchronized void llevarPasajeros(int npasajeros, String id){
         try {
-            em2.acquire();          
+            em2.acquire();
+            LOG.info(id+" se dirige al aeropuerto");
             nviajeros=nviajeros+npasajeros;          
         } catch (InterruptedException ex) {
             Logger.getLogger(Aeropuerto.class.getName()).log(Level.SEVERE, null, ex);
@@ -81,6 +90,7 @@ public class Aeropuerto {
             if (npasajeros>getNviajeros()){
                 npasajeros=getNviajeros();
             }
+            LOG.info(id+" recoge"+ npasajeros+"pasajeros");
             Thread.sleep((new Random().nextInt(4)+2)*1000);
             nviajeros=nviajeros-npasajeros;
         }catch(InterruptedException ex){         
@@ -93,6 +103,7 @@ public class Aeropuerto {
     
     public void llevarPasajeros2(int npasajeros, String id){       
         try {
+            LOG.info(id+" se dirige a la ciudad");
             Thread.sleep((new Random().nextInt(6)+5)*1000);
             em1.acquire();
             npasajeros=0;     
@@ -105,18 +116,20 @@ public class Aeropuerto {
     }
     
     
-    public void hangar(boolean aterrizaje){
+    public void hangar(boolean aterrizaje, String id){
         try {
             if(aterrizaje){
                 Thread.sleep((new Random().nextInt(16)+15)*1000);
             }
+            LOG.info(id+" esta en el hangar");
             //System.out.println("AVION "+id+" esta en el hangar");
         } catch (InterruptedException ex) {
             Logger.getLogger(Aeropuerto.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
-    public int areaDeEstacionamiento(boolean aterrizaje){
+    public int areaDeEstacionamiento(boolean aterrizaje, String id){
         int operacion=-1;
+        LOG.info(id+" esta en el area de estacionamiento");
         try {
             if(aterrizaje){          
                 Thread.sleep((new Random().nextInt(5)+1)*1000);       

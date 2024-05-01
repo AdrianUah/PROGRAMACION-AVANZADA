@@ -3,9 +3,10 @@ package Aeropuertos;
 import java.util.Random;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import log.Logg;
 
 public class Avion implements Runnable{
-    
+    private static final org.apache.log4j.Logger LOG = Logg.getLogger(Main.class);
 private String id;
 private Aeropuerto aeropuerto,aeropuertoOrigen,aeropuertoDestino;
 private int puertaEmbarque, capacidad,npasajeros,npista, nviajes=0;
@@ -22,12 +23,17 @@ private boolean aterrizaje=false;
         capacidad=new Random().nextInt(201)+100;
         
     }
+    public String getid()
+    {
+        return id;
+    }
     
     public void run(){
+        LOG.info("Se ha creado un nuevo avion : " +getid());
         while(true){
             try {
-                aeropuerto.hangar(aterrizaje);
-                puertaEmbarque=aeropuerto.areaDeEstacionamiento(aterrizaje);
+                aeropuerto.hangar(aterrizaje, id);
+                puertaEmbarque=aeropuerto.areaDeEstacionamiento(aterrizaje, id);
                 
                 int i=0;
                 int aforo=capacidad;
@@ -56,7 +62,7 @@ private boolean aterrizaje=false;
                 
                 puertaEmbarque=aeropuerto.areaDeRodaje(aterrizaje);
                 aeropuerto.puertasDeEmbarque(npasajeros,aterrizaje);               
-                aeropuerto.areaDeEstacionamiento(aterrizaje);
+                aeropuerto.areaDeEstacionamiento(aterrizaje, id);
                 
                 nviajes++;
                 aeropuerto.setTaller();
@@ -65,7 +71,7 @@ private boolean aterrizaje=false;
                 
                 int decision=new Random().nextInt(2);
                 if(decision==1){
-                    aeropuerto.hangar(aterrizaje);
+                    aeropuerto.hangar(aterrizaje, id);
                 }
                 aterrizaje=false;
                 aeropuertoDestino=aeropuertoOrigen;

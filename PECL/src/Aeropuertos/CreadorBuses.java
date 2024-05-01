@@ -1,5 +1,5 @@
 package Aeropuertos;
-import Log.Log;
+import log.Logg;
 import java.util.Random;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -7,7 +7,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class CreadorBuses extends Thread{
-    private Log log;
     ExecutorService pool=Executors.newFixedThreadPool(10);
     Aeropuerto aeropuertomadrid;
     Aeropuerto aeropuertobarcelona;
@@ -34,7 +33,7 @@ public class CreadorBuses extends Thread{
                 Thread.sleep(sleep);
             
             } catch (InterruptedException ex) {
-                Logger.getLogger(CreadorAviones.class.getName()).log(Level.SEVERE, null, ex);
+                ex.printStackTrace();
             }
         
         }
