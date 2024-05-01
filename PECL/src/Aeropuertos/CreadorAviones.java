@@ -6,7 +6,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class CreadorAviones extends Thread{
-    ExecutorService pool=Executors.newFixedThreadPool(8000);
+    ExecutorService pool=Executors.newFixedThreadPool(5);
     Aeropuerto aeropuertomadrid;
     Aeropuerto aeropuertobarcelona;
     
@@ -16,16 +16,20 @@ public class CreadorAviones extends Thread{
     }
     
     public void run(){
-              
-        for (int i=1;i<=8000;i++){         
+        int i=0;
+        while(true){
             try {
-                Aeropuerto aeropuerto;
+                i++;
+                Aeropuerto aeropuertoOrigen;
+                Aeropuerto aeropuertoDestino;
                 if(i%2==0){
-                    aeropuerto=this.aeropuertomadrid;
+                    aeropuertoOrigen=this.aeropuertomadrid;
+                    aeropuertoDestino=this.aeropuertobarcelona;
                 }else{
-                    aeropuerto=this.aeropuertobarcelona;
+                    aeropuertoOrigen=this.aeropuertobarcelona;
+                    aeropuertoDestino=this.aeropuertomadrid;
                 }
-                pool.execute(new Avion(i,aeropuerto));
+                pool.execute(new Avion(i,aeropuertoOrigen,aeropuertoDestino));
                 int sleep=(new Random().nextInt(3)+1)*1000;
                 Thread.sleep(sleep);
             
@@ -33,6 +37,5 @@ public class CreadorAviones extends Thread{
                 Logger.getLogger(CreadorAviones.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
-        pool.shutdown();
     }
 }

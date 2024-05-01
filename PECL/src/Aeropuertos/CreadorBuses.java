@@ -12,15 +12,14 @@ public class CreadorBuses extends Thread{
     Aeropuerto aeropuertomadrid;
     Aeropuerto aeropuertobarcelona;
     
-    public CreadorBuses(Log log,Aeropuerto aeropuertomadrid,Aeropuerto aeropuertobarcelona){
+    public CreadorBuses(Aeropuerto aeropuertomadrid,Aeropuerto aeropuertobarcelona){
         this.aeropuertomadrid=aeropuertomadrid;
         this.aeropuertobarcelona=aeropuertobarcelona;
-        this.log=log;
+        //this.log=log;
     }
     
     public void run(){
         int i=0;      
-        //for (int i=1;i<=4000;i++){
         while (true){
             try {
                 i++;
@@ -30,16 +29,14 @@ public class CreadorBuses extends Thread{
                 }else{
                     aeropuerto=this.aeropuertobarcelona;
                 }
-                pool.execute(new Bus(log,i,aeropuerto));
-                //pool.execute(new Bus(i,aeropuertomadrid));
+                pool.execute(new Bus(i,aeropuerto));
                 int sleep=(new Random().nextInt(5)+5)*100;
                 Thread.sleep(sleep);
             
             } catch (InterruptedException ex) {
                 Logger.getLogger(CreadorAviones.class.getName()).log(Level.SEVERE, null, ex);
             }
-        //}
+        
         }
-        //pool.shutdown();
     }
 }
