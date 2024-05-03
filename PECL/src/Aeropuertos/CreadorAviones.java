@@ -4,11 +4,9 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import log.Logg;
 
 public class CreadorAviones extends Thread{
-    //private static final org.apache.log4j.Logger LOG = Logg.getLogger(Main.class);
-    ExecutorService pool=Executors.newFixedThreadPool(5);
+    ExecutorService pool=Executors.newFixedThreadPool(8000);
     Aeropuerto aeropuertomadrid;
     Aeropuerto aeropuertobarcelona;
     
@@ -32,7 +30,6 @@ public class CreadorAviones extends Thread{
                     aeropuertoDestino=this.aeropuertomadrid;
                 }
                 pool.execute(new Avion(i,aeropuertoOrigen,aeropuertoDestino));
-                //LOG.info("Se ha creado un nuevo avion : " + i);
                 int sleep=(new Random().nextInt(3)+1)*1000;
                 Thread.sleep(sleep);
             
