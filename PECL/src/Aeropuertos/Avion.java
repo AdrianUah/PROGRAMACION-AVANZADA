@@ -1,11 +1,12 @@
 package Aeropuertos;
 
+import Log.Log;
 import java.util.Random;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class Avion implements Runnable{
-    
+private static final org.apache.log4j.Logger LOG = Log.getLogger(Main.class);
 private String id;
 private Aeropuerto aeropuerto,aeropuertoOrigen,aeropuertoDestino;
 private int puertaEmbarque, capacidad,npasajeros,npista, nviajes=0;
@@ -23,7 +24,11 @@ private boolean aterrizaje=false;
         this.aeropuertoDestino=aeropuertoDestino;
         aeropuerto=aeropuertoOrigen;
         capacidad=new Random().nextInt(201)+100;
+        LOG.info("Avión "+this.id+" es creado");
         
+    }
+    public void pausa(){
+            
     }
 
     public String getId() {
@@ -32,6 +37,10 @@ private boolean aterrizaje=false;
 
     public int getNpasajeros() {
         return npasajeros;
+    }
+
+    public boolean isAterrizaje() {
+        return aterrizaje;
     }
     
     public void run(){
@@ -43,6 +52,7 @@ private boolean aterrizaje=false;
                 int i=0;
                 int aforo=capacidad;
                 aeropuerto.actualizarhmGates(puertaEmbarque, this);
+                LOG.info("Avion "+id+ " accede a puerta de Embarque "+puertaEmbarque+" para embarcar pasajeros");
                 do{
                     
                     if(i!=0){
@@ -72,6 +82,8 @@ private boolean aterrizaje=false;
                 
                 puertaEmbarque=aeropuerto.areaDeRodaje(id,npasajeros,aterrizaje);
                 //System.out.println("avion "+id+" aterriza en la puerta de embarque "+puertaEmbarque+" con pasajeros: "+npasajeros+ " ...del aeropuerto "+ aeropuerto.getId()+" hay estos viajeros aqui "+aeropuerto.getNviajeros() );
+                LOG.info("Avion "+id+ " accede a puerta de Embarque "+puertaEmbarque+" para desembarcar "+npasajeros+" pasajeros");
+
                 npasajeros=aeropuerto.puertasDeEmbarque(npasajeros,aterrizaje);
                 aeropuerto.liberarPuertasDeEmbarque(puertaEmbarque);
                 //System.out.println("avion "+id+" deja la puerta de embarque "+puertaEmbarque+" y se queda sin pasajeros:: "+npasajeros+ " en el aeropuerto "+ aeropuerto.getId()+" ahora deberian haber mas viajeros aqui mas o menos "+aeropuerto.getNviajeros() );

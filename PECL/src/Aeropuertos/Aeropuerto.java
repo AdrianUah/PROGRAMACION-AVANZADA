@@ -13,17 +13,19 @@ import java.util.logging.Logger;
 
 public class Aeropuerto {
     private static final org.apache.log4j.Logger LOG = Log.getLogger(Main.class);
+    private StringBuilder sb = new StringBuilder();
     private int id,nviajeros,nviajerosvuelta;
     private int npistaslibres=4;
+    private Boolean[] puertasEmbarque= new Boolean[6];
+    private Boolean[] pistas= new Boolean[4];
+    
     private Semaphore em1=new Semaphore(1);
     private Semaphore lleno=new Semaphore(0);
     private Semaphore vacio=new Semaphore(1);
     private Semaphore lleno2=new Semaphore(0);
     private Semaphore vacio2=new Semaphore(1);
     private Semaphore em2=new Semaphore(1);
-    private Semaphore em22=new Semaphore(1);
-    private Boolean[] puertasEmbarque= new Boolean[6];
-    private Boolean[] pistas= new Boolean[4];
+    private Semaphore em22=new Semaphore(1);   
     private Semaphore em3=new Semaphore(6,true);
     private Semaphore em4=new Semaphore(1);
     private Semaphore em5=new Semaphore(1,true);
@@ -54,6 +56,42 @@ public class Aeropuerto {
 
     public int getNviajeros() {
         return nviajeros;
+    }
+
+    public ConcurrentHashMap<String, Boolean> getHmHangar() {
+        return hmHangar;
+    }
+
+    public ConcurrentHashMap<String, Integer> getHmTransfersA() {
+        return hmTransfersA;
+    }
+
+    public ConcurrentHashMap<String, Integer> getHmTransfersC() {
+        return hmTransfersC;
+    }
+
+    public ConcurrentHashMap<String, Boolean> getHmTaller() {
+        return hmTaller;
+    }
+
+    public ConcurrentHashMap<String, Boolean> getHmAreaEstacionamiento() {
+        return hmAreaEstacionamiento;
+    }
+
+    public ConcurrentHashMap<Integer, Avion> getHmGates() {
+        return hmGates;
+    }
+
+    public ConcurrentHashMap<String, Integer> getHmAreaRodaje() {
+        return hmAreaRodaje;
+    }
+
+    public ConcurrentHashMap<Integer, Avion> getHmPistas() {
+        return hmPistas;
+    }
+
+    public ConcurrentHashMap<String, Integer> getHmAerovia() {
+        return hmAerovia;
     }
     
     public void conducir(){      
@@ -86,9 +124,9 @@ public class Aeropuerto {
     
     public void llevarPasajeros(int npasajeros, String id){
         try {
-            em2.acquire();
-            System.out.println("Aeropuertos.Aeropuerto.llevarPasajeros()");
+            em2.acquire();          
             nviajeros=nviajeros+npasajeros;
+            LOG.info("Bus "+id+" deja "+npasajeros+" en el aeropuerto");
             hmTransfersA.remove(id);
             if(nviajeros>0){
                 lleno.release();
@@ -134,7 +172,8 @@ public class Aeropuerto {
     
     
     public void hangar(String id,boolean aterrizaje){
-        try {
+        try {           
+            LOG.info("Avion "+id+ " esta en el hangar");
             hmHangar.put(id,true);
             
             if(aterrizaje){
@@ -149,6 +188,7 @@ public class Aeropuerto {
     public int areaDeEstacionamiento(String id,boolean aterrizaje){
         int operacion=-1;
         try {
+            LOG.info("Avion "+id+ " esta en el area de estacionamiento");
             hmAreaEstacionamiento.put(id, true);
             if(aterrizaje){          
                 Thread.sleep((new Random().nextInt(5)+1)*1000);
@@ -263,6 +303,7 @@ public class Aeropuerto {
         
         int operacion=-1;
         try {
+            LOG.info("Avion "+id+ " esta en el area de rodaje");
             hmAreaRodaje.put(id, npasajeros);
             if(aterrizaje){
                operacion=setPuertaDeEmbarque(aterrizaje);
@@ -302,9 +343,13 @@ public class Aeropuerto {
     
     public void pista(int npista, Avion avion,boolean aterrizaje){
         try {
+            
             hmPistas.put(npista, avion);
             if (!aterrizaje){
+                LOG.info("Avion "+avion.getId()+" ("+avion.getNpasajeros()+" pasajeros)"+ " accede a pista "+npista+" para despegue");
                 Thread.sleep((new Random().nextInt(3)+1)*1000);
+            }else{
+                LOG.info("Avion "+avion.getId()+" ("+avion.getNpasajeros()+" pasajeros)"+ " accede a pista "+npista+" para atterizaje");
             }
             Thread.sleep((new Random().nextInt(5)+1)*1000);
         } catch (InterruptedException ex) {
@@ -319,13 +364,18 @@ public class Aeropuerto {
         notifyAll();
     }
     
-    public int aerovia(String id, int npasajeros,boolean aterrizaje){
+    public int aerovia(String ida, int npasajeros,boolean aterrizaje){
         int npista=-1;
         try {
-            hmAerovia.put(id, npasajeros);
+            hmAerovia.put(ida, npasajeros);
+            if(id==1){
+                LOG.info("Avion "+ida+" ("+npasajeros+" pasajeros)"+ " accede a aerovia Madrid - Barcelona");
+            }else{
+                LOG.info("Avion "+ida+" ("+npasajeros+" pasajeros)"+ " accede a aerovia Barcelona - Madrid");
+            }
             Thread.sleep((new Random().nextInt(16)+15)*1000);
             npista=setPista(aterrizaje);
-            hmAerovia.remove(id);
+            hmAerovia.remove(ida);
         } catch (InterruptedException ex) {
             Logger.getLogger(Aeropuerto.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -347,6 +397,7 @@ public class Aeropuerto {
     
     public void taller(String id,int nviajes){     
         try {
+            LOG.info("Avion "+id+ " esta en el taller");
             hmTaller.put(id,true);
             if(nviajes%15==0){
                 Thread.sleep((new Random().nextInt(6)+5)*1000);
@@ -390,4 +441,58 @@ public class Aeropuerto {
             System.out.println("gate: " + clave + ", id: " + avion.getId()+ ", Personas: " + avion.getNpasajeros());
         }
     }
+    
+    public String textTransfers(ConcurrentHashMap hm){
+        for (Object clave : hm.keySet()) {
+            Integer valor = (Integer) hm.get(clave);
+            sb.append(clave).append("(").append(valor).append(") ");
+        }
+        String contenido = sb.toString();
+        sb.setLength(0);
+        return contenido;
+    }
+
+    public String textHangar(ConcurrentHashMap hm) {
+        for (Object clave : hm.keySet()) {           
+            sb.append(clave).append(" ");
+        }
+        String contenido = sb.toString();
+        sb.setLength(0);
+        return contenido;
+    }
+
+    public String textGate(int i) {
+        Avion avion=hmGates.get(i);
+        String contenido="";
+        if(avion!=null){
+            if(avion.isAterrizaje()){
+                sb.append("Desembarque: ");
+            }else{
+                sb.append("Embarque: ");
+            }
+                sb.append(avion.getId());
+                contenido = sb.toString();
+                sb.setLength(0);
+        }       
+        return contenido;
+    }
+
+    public String textPista(int i) {
+        Avion avion=hmPistas.get(i);
+        String contenido="";
+        if(avion!=null){
+            if(avion.isAterrizaje()){
+                sb.append("Aterrizaje: ");
+            }else{
+                sb.append("Despegue: ");
+            }
+                sb.append(avion.getId()).append("(").append(avion.getNpasajeros()).append(")");
+                contenido = sb.toString();
+                sb.setLength(0);
+        }       
+        return contenido;
+    }
+    
+    
+    
 }

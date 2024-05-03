@@ -1,0 +1,12 @@
+03-05-2024 21:28:29 INFO  Main:17: Bus B-0001 es creado
+03-05-2024 21:28:29 INFO  Main:27: Avión LW-0001 es creado
+03-05-2024 21:28:29 INFO  Main:176: Avion LW-0001 esta en el hangar
+03-05-2024 21:28:29 INFO  Main:191: Avion LW-0001 esta en el area de estacionamiento
+03-05-2024 21:28:29 INFO  Main:55: Avion LW-0001 accede a puerta de Embarque 0 para embarcar pasajeros
+03-05-2024 21:28:30 INFO  Main:17: Bus B-0002 es creado
+03-05-2024 21:28:30 INFO  Main:27: Avión RT-0002 es creado
+03-05-2024 21:28:30 INFO  Main:176: Avion RT-0002 esta en el hangar
+03-05-2024 21:28:30 INFO  Main:191: Avion RT-0002 esta en el area de estacionamiento
+03-05-2024 21:28:30 INFO  Main:55: Avion RT-0002 accede a puerta de Embarque 0 para embarcar pasajeros
+03-05-2024 21:28:31 INFO  Main:17: Bus B-0003 es creado
+03-05-2024 21:28:32 INFO  Main:17: Bus B-0004 es creado
