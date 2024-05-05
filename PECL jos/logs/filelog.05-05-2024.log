@@ -1,0 +1,1233 @@
+05-05-2024 17:49:25 INFO  Main:25: Avión GB-0001 es creado
+05-05-2024 17:49:25 INFO  Main:15: Bus B-0001 es creado
+05-05-2024 17:49:25 INFO  Main:220: Avion GB-0001 esta en el hangar
+05-05-2024 17:49:25 INFO  Main:237: Avion GB-0001 esta en el area de estacionamiento
+05-05-2024 17:49:25 INFO  Main:50: Avion GB-0001 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:49:26 INFO  Main:15: Bus B-0002 es creado
+05-05-2024 17:49:26 INFO  Main:25: Avión UW-0002 es creado
+05-05-2024 17:49:26 INFO  Main:220: Avion UW-0002 esta en el hangar
+05-05-2024 17:49:26 INFO  Main:237: Avion UW-0002 esta en el area de estacionamiento
+05-05-2024 17:49:26 INFO  Main:50: Avion UW-0002 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:49:26 INFO  Main:15: Bus B-0003 es creado
+05-05-2024 17:49:27 INFO  Main:15: Bus B-0004 es creado
+05-05-2024 17:49:27 INFO  Main:25: Avión ZN-0003 es creado
+05-05-2024 17:49:27 INFO  Main:220: Avion ZN-0003 esta en el hangar
+05-05-2024 17:49:27 INFO  Main:237: Avion ZN-0003 esta en el area de estacionamiento
+05-05-2024 17:49:27 INFO  Main:50: Avion ZN-0003 accede a puerta de Embarque 1 para embarcar pasajeros
+05-05-2024 17:49:28 INFO  Main:15: Bus B-0005 es creado
+05-05-2024 17:49:28 INFO  Main:25: Avión ED-0004 es creado
+05-05-2024 17:49:28 INFO  Main:220: Avion ED-0004 esta en el hangar
+05-05-2024 17:49:28 INFO  Main:237: Avion ED-0004 esta en el area de estacionamiento
+05-05-2024 17:49:28 INFO  Main:50: Avion ED-0004 accede a puerta de Embarque 1 para embarcar pasajeros
+05-05-2024 17:49:28 INFO  Main:15: Bus B-0006 es creado
+05-05-2024 17:49:29 INFO  Main:25: Avión ED-0005 es creado
+05-05-2024 17:49:29 INFO  Main:220: Avion ED-0005 esta en el hangar
+05-05-2024 17:49:29 INFO  Main:237: Avion ED-0005 esta en el area de estacionamiento
+05-05-2024 17:49:29 INFO  Main:50: Avion ED-0005 accede a puerta de Embarque 2 para embarcar pasajeros
+05-05-2024 17:49:29 INFO  Main:15: Bus B-0007 es creado
+05-05-2024 17:49:30 INFO  Main:15: Bus B-0008 es creado
+05-05-2024 17:49:30 INFO  Main:25: Avión ZI-0006 es creado
+05-05-2024 17:49:30 INFO  Main:220: Avion ZI-0006 esta en el hangar
+05-05-2024 17:49:30 INFO  Main:237: Avion ZI-0006 esta en el area de estacionamiento
+05-05-2024 17:49:30 INFO  Main:50: Avion ZI-0006 accede a puerta de Embarque 2 para embarcar pasajeros
+05-05-2024 17:49:31 INFO  Main:15: Bus B-0009 es creado
+05-05-2024 17:49:31 INFO  Main:25: Avión YX-0007 es creado
+05-05-2024 17:49:31 INFO  Main:220: Avion YX-0007 esta en el hangar
+05-05-2024 17:49:31 INFO  Main:237: Avion YX-0007 esta en el area de estacionamiento
+05-05-2024 17:49:31 INFO  Main:50: Avion YX-0007 accede a puerta de Embarque 3 para embarcar pasajeros
+05-05-2024 17:49:32 INFO  Main:15: Bus B-0010 es creado
+05-05-2024 17:49:33 INFO  Main:15: Bus B-0011 es creado
+05-05-2024 17:49:33 INFO  Main:25: Avión HU-0008 es creado
+05-05-2024 17:49:33 INFO  Main:220: Avion HU-0008 esta en el hangar
+05-05-2024 17:49:33 INFO  Main:237: Avion HU-0008 esta en el area de estacionamiento
+05-05-2024 17:49:33 INFO  Main:50: Avion HU-0008 accede a puerta de Embarque 3 para embarcar pasajeros
+05-05-2024 17:49:33 INFO  Main:15: Bus B-0012 es creado
+05-05-2024 17:49:34 INFO  Main:15: Bus B-0013 es creado
+05-05-2024 17:49:34 INFO  Main:25: Avión MS-0009 es creado
+05-05-2024 17:49:34 INFO  Main:220: Avion MS-0009 esta en el hangar
+05-05-2024 17:49:34 INFO  Main:237: Avion MS-0009 esta en el area de estacionamiento
+05-05-2024 17:49:34 INFO  Main:50: Avion MS-0009 accede a puerta de Embarque 4 para embarcar pasajeros
+05-05-2024 17:49:35 INFO  Main:15: Bus B-0014 es creado
+05-05-2024 17:49:35 INFO  Main:15: Bus B-0015 es creado
+05-05-2024 17:49:36 INFO  Main:15: Bus B-0016 es creado
+05-05-2024 17:49:36 INFO  Main:25: Avión LS-0010 es creado
+05-05-2024 17:49:36 INFO  Main:220: Avion LS-0010 esta en el hangar
+05-05-2024 17:49:36 INFO  Main:237: Avion LS-0010 esta en el area de estacionamiento
+05-05-2024 17:49:36 INFO  Main:50: Avion LS-0010 accede a puerta de Embarque 4 para embarcar pasajeros
+05-05-2024 17:49:37 INFO  Main:166: Bus B-0002 deja 3 en el aeropuerto
+05-05-2024 17:49:37 INFO  Main:166: Bus B-0004 deja 40 en el aeropuerto
+05-05-2024 17:49:37 INFO  Main:15: Bus B-0017 es creado
+05-05-2024 17:49:37 INFO  Main:166: Bus B-0001 deja 18 en el aeropuerto
+05-05-2024 17:49:37 INFO  Main:15: Bus B-0018 es creado
+05-05-2024 17:49:38 INFO  Main:15: Bus B-0019 es creado
+05-05-2024 17:49:38 INFO  Main:25: Avión BG-0011 es creado
+05-05-2024 17:49:38 INFO  Main:220: Avion BG-0011 esta en el hangar
+05-05-2024 17:49:38 INFO  Main:237: Avion BG-0011 esta en el area de estacionamiento
+05-05-2024 17:49:38 INFO  Main:50: Avion BG-0011 accede a puerta de Embarque 5 para embarcar pasajeros
+05-05-2024 17:49:39 INFO  Main:15: Bus B-0020 es creado
+05-05-2024 17:49:39 INFO  Main:166: Bus B-0003 deja 4 en el aeropuerto
+05-05-2024 17:49:39 INFO  Main:15: Bus B-0021 es creado
+05-05-2024 17:49:39 INFO  Main:25: Avión IC-0012 es creado
+05-05-2024 17:49:39 INFO  Main:220: Avion IC-0012 esta en el hangar
+05-05-2024 17:49:39 INFO  Main:237: Avion IC-0012 esta en el area de estacionamiento
+05-05-2024 17:49:39 INFO  Main:50: Avion IC-0012 accede a puerta de Embarque 5 para embarcar pasajeros
+05-05-2024 17:49:40 INFO  Main:15: Bus B-0022 es creado
+05-05-2024 17:49:41 INFO  Main:15: Bus B-0023 es creado
+05-05-2024 17:49:41 INFO  Main:25: Avión JT-0013 es creado
+05-05-2024 17:49:41 INFO  Main:15: Bus B-0024 es creado
+05-05-2024 17:49:41 INFO  Main:220: Avion JT-0013 esta en el hangar
+05-05-2024 17:49:41 INFO  Main:237: Avion JT-0013 esta en el area de estacionamiento
+05-05-2024 17:57:25 INFO  Main:15: Bus B-0001 es creado
+05-05-2024 17:57:25 INFO  Main:25: Avión MF-0001 es creado
+05-05-2024 17:57:25 INFO  Main:220: Avion MF-0001 esta en el hangar
+05-05-2024 17:57:25 INFO  Main:237: Avion MF-0001 esta en el area de estacionamiento
+05-05-2024 17:57:25 INFO  Main:50: Avion MF-0001 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:57:26 INFO  Main:15: Bus B-0002 es creado
+05-05-2024 17:57:27 INFO  Main:15: Bus B-0003 es creado
+05-05-2024 17:57:27 INFO  Main:15: Bus B-0004 es creado
+05-05-2024 17:57:28 INFO  Main:15: Bus B-0005 es creado
+05-05-2024 17:57:28 INFO  Main:25: Avión MS-0002 es creado
+05-05-2024 17:57:28 INFO  Main:220: Avion MS-0002 esta en el hangar
+05-05-2024 17:57:28 INFO  Main:237: Avion MS-0002 esta en el area de estacionamiento
+05-05-2024 17:57:28 INFO  Main:50: Avion MS-0002 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:57:29 INFO  Main:15: Bus B-0006 es creado
+05-05-2024 17:57:30 INFO  Main:15: Bus B-0007 es creado
+05-05-2024 17:57:30 INFO  Main:25: Avión JA-0003 es creado
+05-05-2024 17:57:30 INFO  Main:220: Avion JA-0003 esta en el hangar
+05-05-2024 17:57:30 INFO  Main:237: Avion JA-0003 esta en el area de estacionamiento
+05-05-2024 17:57:30 INFO  Main:50: Avion JA-0003 accede a puerta de Embarque 1 para embarcar pasajeros
+05-05-2024 17:57:31 INFO  Main:15: Bus B-0008 es creado
+05-05-2024 17:57:32 INFO  Main:15: Bus B-0009 es creado
+05-05-2024 17:57:32 INFO  Main:25: Avión ZO-0004 es creado
+05-05-2024 17:57:32 INFO  Main:220: Avion ZO-0004 esta en el hangar
+05-05-2024 17:57:32 INFO  Main:237: Avion ZO-0004 esta en el area de estacionamiento
+05-05-2024 17:57:32 INFO  Main:50: Avion ZO-0004 accede a puerta de Embarque 1 para embarcar pasajeros
+05-05-2024 17:57:32 INFO  Main:15: Bus B-0010 es creado
+05-05-2024 17:57:33 INFO  Main:15: Bus B-0011 es creado
+05-05-2024 17:57:34 INFO  Main:15: Bus B-0012 es creado
+05-05-2024 17:57:34 INFO  Main:25: Avión NL-0005 es creado
+05-05-2024 17:57:34 INFO  Main:220: Avion NL-0005 esta en el hangar
+05-05-2024 17:57:34 INFO  Main:237: Avion NL-0005 esta en el area de estacionamiento
+05-05-2024 17:57:34 INFO  Main:50: Avion NL-0005 accede a puerta de Embarque 2 para embarcar pasajeros
+05-05-2024 17:57:35 INFO  Main:15: Bus B-0013 es creado
+05-05-2024 17:57:35 INFO  Main:166: Bus B-0002 deja 38 en el aeropuerto
+05-05-2024 17:57:35 INFO  Main:15: Bus B-0014 es creado
+05-05-2024 17:57:36 INFO  Main:15: Bus B-0015 es creado
+05-05-2024 17:57:36 INFO  Main:15: Bus B-0016 es creado
+05-05-2024 17:57:37 INFO  Main:15: Bus B-0017 es creado
+05-05-2024 17:57:37 INFO  Main:25: Avión JH-0006 es creado
+05-05-2024 17:57:37 INFO  Main:220: Avion JH-0006 esta en el hangar
+05-05-2024 17:57:37 INFO  Main:237: Avion JH-0006 esta en el area de estacionamiento
+05-05-2024 17:57:37 INFO  Main:50: Avion JH-0006 accede a puerta de Embarque 2 para embarcar pasajeros
+05-05-2024 17:57:37 INFO  Main:15: Bus B-0018 es creado
+05-05-2024 17:57:38 INFO  Main:166: Bus B-0004 deja 38 en el aeropuerto
+05-05-2024 17:57:38 INFO  Main:166: Bus B-0001 deja 46 en el aeropuerto
+05-05-2024 17:57:38 INFO  Main:15: Bus B-0019 es creado
+05-05-2024 17:57:39 INFO  Main:15: Bus B-0020 es creado
+05-05-2024 17:57:39 INFO  Main:25: Avión UJ-0007 es creado
+05-05-2024 17:57:39 INFO  Main:220: Avion UJ-0007 esta en el hangar
+05-05-2024 17:57:39 INFO  Main:237: Avion UJ-0007 esta en el area de estacionamiento
+05-05-2024 17:57:39 INFO  Main:50: Avion UJ-0007 accede a puerta de Embarque 3 para embarcar pasajeros
+05-05-2024 17:57:40 INFO  Main:15: Bus B-0021 es creado
+05-05-2024 17:57:40 INFO  Main:25: Avión UN-0008 es creado
+05-05-2024 17:57:40 INFO  Main:220: Avion UN-0008 esta en el hangar
+05-05-2024 17:57:40 INFO  Main:237: Avion UN-0008 esta en el area de estacionamiento
+05-05-2024 17:57:40 INFO  Main:50: Avion UN-0008 accede a puerta de Embarque 3 para embarcar pasajeros
+05-05-2024 17:57:41 INFO  Main:15: Bus B-0022 es creado
+05-05-2024 17:57:41 INFO  Main:166: Bus B-0005 deja 28 en el aeropuerto
+05-05-2024 17:57:41 INFO  Main:25: Avión BK-0009 es creado
+05-05-2024 17:57:41 INFO  Main:220: Avion BK-0009 esta en el hangar
+05-05-2024 17:57:41 INFO  Main:237: Avion BK-0009 esta en el area de estacionamiento
+05-05-2024 17:57:41 INFO  Main:50: Avion BK-0009 accede a puerta de Embarque 4 para embarcar pasajeros
+05-05-2024 17:57:41 INFO  Main:15: Bus B-0023 es creado
+05-05-2024 17:57:42 INFO  Main:15: Bus B-0024 es creado
+05-05-2024 17:57:42 INFO  Main:166: Bus B-0003 deja 26 en el aeropuerto
+05-05-2024 17:57:42 INFO  Main:15: Bus B-0025 es creado
+05-05-2024 17:57:43 INFO  Main:15: Bus B-0026 es creado
+05-05-2024 17:57:44 INFO  Main:15: Bus B-0027 es creado
+05-05-2024 17:57:44 INFO  Main:166: Bus B-0006 deja 44 en el aeropuerto
+05-05-2024 17:57:44 INFO  Main:166: Bus B-0007 deja 33 en el aeropuerto
+05-05-2024 17:57:44 INFO  Main:25: Avión NM-0010 es creado
+05-05-2024 17:57:44 INFO  Main:220: Avion NM-0010 esta en el hangar
+05-05-2024 17:57:44 INFO  Main:237: Avion NM-0010 esta en el area de estacionamiento
+05-05-2024 17:57:44 INFO  Main:50: Avion NM-0010 accede a puerta de Embarque 4 para embarcar pasajeros
+05-05-2024 17:57:45 INFO  Main:15: Bus B-0028 es creado
+05-05-2024 17:57:45 INFO  Main:15: Bus B-0029 es creado
+05-05-2024 17:57:46 INFO  Main:15: Bus B-0030 es creado
+05-05-2024 17:57:46 INFO  Main:25: Avión TV-0011 es creado
+05-05-2024 17:57:46 INFO  Main:220: Avion TV-0011 esta en el hangar
+05-05-2024 17:57:46 INFO  Main:237: Avion TV-0011 esta en el area de estacionamiento
+05-05-2024 17:57:46 INFO  Main:50: Avion TV-0011 accede a puerta de Embarque 5 para embarcar pasajeros
+05-05-2024 17:57:47 INFO  Main:15: Bus B-0031 es creado
+05-05-2024 17:57:47 INFO  Main:166: Bus B-0008 deja 3 en el aeropuerto
+05-05-2024 17:57:47 INFO  Main:15: Bus B-0032 es creado
+05-05-2024 17:57:48 INFO  Main:15: Bus B-0033 es creado
+05-05-2024 17:57:48 INFO  Main:25: Avión PD-0012 es creado
+05-05-2024 17:57:48 INFO  Main:220: Avion PD-0012 esta en el hangar
+05-05-2024 17:57:48 INFO  Main:237: Avion PD-0012 esta en el area de estacionamiento
+05-05-2024 17:57:48 INFO  Main:50: Avion PD-0012 accede a puerta de Embarque 5 para embarcar pasajeros
+05-05-2024 17:57:48 INFO  Main:15: Bus B-0034 es creado
+05-05-2024 17:57:49 INFO  Main:15: Bus B-0035 es creado
+05-05-2024 17:57:49 INFO  Main:166: Bus B-0010 deja 17 en el aeropuerto
+05-05-2024 17:57:50 INFO  Main:15: Bus B-0036 es creado
+05-05-2024 17:57:51 INFO  Main:15: Bus B-0037 es creado
+05-05-2024 17:57:51 INFO  Main:25: Avión FW-0013 es creado
+05-05-2024 17:57:51 INFO  Main:220: Avion FW-0013 esta en el hangar
+05-05-2024 17:57:51 INFO  Main:237: Avion FW-0013 esta en el area de estacionamiento
+05-05-2024 17:57:52 INFO  Main:15: Bus B-0038 es creado
+05-05-2024 17:57:52 INFO  Main:15: Bus B-0039 es creado
+05-05-2024 17:57:53 INFO  Main:15: Bus B-0040 es creado
+05-05-2024 17:57:53 INFO  Main:15: Bus B-0041 es creado
+05-05-2024 17:57:53 INFO  Main:166: Bus B-0009 deja 15 en el aeropuerto
+05-05-2024 17:57:53 INFO  Main:25: Avión UG-0014 es creado
+05-05-2024 17:57:53 INFO  Main:220: Avion UG-0014 esta en el hangar
+05-05-2024 17:57:53 INFO  Main:237: Avion UG-0014 esta en el area de estacionamiento
+05-05-2024 17:57:54 INFO  Main:15: Bus B-0042 es creado
+05-05-2024 17:57:55 INFO  Main:15: Bus B-0043 es creado
+05-05-2024 17:57:55 INFO  Main:166: Bus B-0011 deja 9 en el aeropuerto
+05-05-2024 17:57:55 INFO  Main:25: Avión OS-0015 es creado
+05-05-2024 17:57:55 INFO  Main:220: Avion OS-0015 esta en el hangar
+05-05-2024 17:57:55 INFO  Main:237: Avion OS-0015 esta en el area de estacionamiento
+05-05-2024 17:57:55 INFO  Main:15: Bus B-0044 es creado
+05-05-2024 17:57:56 INFO  Main:15: Bus B-0045 es creado
+05-05-2024 17:57:57 INFO  Main:15: Bus B-0046 es creado
+05-05-2024 17:57:57 INFO  Main:25: Avión ZX-0016 es creado
+05-05-2024 17:57:57 INFO  Main:220: Avion ZX-0016 esta en el hangar
+05-05-2024 17:57:57 INFO  Main:237: Avion ZX-0016 esta en el area de estacionamiento
+05-05-2024 17:57:58 INFO  Main:15: Bus B-0047 es creado
+05-05-2024 17:57:58 INFO  Main:166: Bus B-0012 deja 20 en el aeropuerto
+05-05-2024 17:57:58 INFO  Main:15: Bus B-0048 es creado
+05-05-2024 17:57:59 INFO  Main:25: Avión RU-0017 es creado
+05-05-2024 17:57:59 INFO  Main:220: Avion RU-0017 esta en el hangar
+05-05-2024 17:57:59 INFO  Main:237: Avion RU-0017 esta en el area de estacionamiento
+05-05-2024 17:57:59 INFO  Main:15: Bus B-0049 es creado
+05-05-2024 17:58:00 INFO  Main:166: Bus B-0013 deja 22 en el aeropuerto
+05-05-2024 17:58:00 INFO  Main:25: Avión SM-0018 es creado
+05-05-2024 17:58:00 INFO  Main:220: Avion SM-0018 esta en el hangar
+05-05-2024 17:58:00 INFO  Main:237: Avion SM-0018 esta en el area de estacionamiento
+05-05-2024 17:58:00 INFO  Main:15: Bus B-0050 es creado
+05-05-2024 17:58:01 INFO  Main:15: Bus B-0051 es creado
+05-05-2024 17:58:01 INFO  Main:25: Avión VK-0019 es creado
+05-05-2024 17:58:01 INFO  Main:220: Avion VK-0019 esta en el hangar
+05-05-2024 17:58:01 INFO  Main:237: Avion VK-0019 esta en el area de estacionamiento
+05-05-2024 17:58:01 INFO  Main:15: Bus B-0052 es creado
+05-05-2024 17:58:02 INFO  Main:15: Bus B-0053 es creado
+05-05-2024 17:58:02 INFO  Main:25: Avión FB-0020 es creado
+05-05-2024 17:58:02 INFO  Main:220: Avion FB-0020 esta en el hangar
+05-05-2024 17:58:02 INFO  Main:237: Avion FB-0020 esta en el area de estacionamiento
+05-05-2024 17:58:03 INFO  Main:15: Bus B-0054 es creado
+05-05-2024 17:58:03 INFO  Main:166: Bus B-0014 deja 5 en el aeropuerto
+05-05-2024 17:58:04 INFO  Main:15: Bus B-0055 es creado
+05-05-2024 17:58:04 INFO  Main:25: Avión IP-0021 es creado
+05-05-2024 17:58:04 INFO  Main:220: Avion IP-0021 esta en el hangar
+05-05-2024 17:58:04 INFO  Main:237: Avion IP-0021 esta en el area de estacionamiento
+05-05-2024 17:58:04 INFO  Main:15: Bus B-0056 es creado
+05-05-2024 17:58:05 INFO  Main:166: Bus B-0016 deja 31 en el aeropuerto
+05-05-2024 17:58:05 INFO  Main:15: Bus B-0057 es creado
+05-05-2024 17:58:06 INFO  Main:166: Bus B-0015 deja 23 en el aeropuerto
+05-05-2024 17:58:06 INFO  Main:15: Bus B-0058 es creado
+05-05-2024 17:58:06 INFO  Main:25: Avión AM-0022 es creado
+05-05-2024 17:58:06 INFO  Main:220: Avion AM-0022 esta en el hangar
+05-05-2024 17:58:06 INFO  Main:237: Avion AM-0022 esta en el area de estacionamiento
+05-05-2024 17:58:07 INFO  Main:15: Bus B-0059 es creado
+05-05-2024 17:58:07 INFO  Main:166: Bus B-0020 deja 16 en el aeropuerto
+05-05-2024 17:58:07 INFO  Main:25: Avión DY-0023 es creado
+05-05-2024 17:58:07 INFO  Main:220: Avion DY-0023 esta en el hangar
+05-05-2024 17:58:07 INFO  Main:237: Avion DY-0023 esta en el area de estacionamiento
+05-05-2024 17:58:07 INFO  Main:15: Bus B-0060 es creado
+05-05-2024 17:58:08 INFO  Main:166: Bus B-0018 deja 29 en el aeropuerto
+05-05-2024 17:58:08 INFO  Main:357: Avion MS-0002 esta en el area de rodaje
+05-05-2024 17:58:08 INFO  Main:50: Avion UG-0014 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:58:08 INFO  Main:25: Avión FE-0024 es creado
+05-05-2024 17:58:08 INFO  Main:15: Bus B-0061 es creado
+05-05-2024 17:58:08 INFO  Main:220: Avion FE-0024 esta en el hangar
+05-05-2024 17:58:08 INFO  Main:237: Avion FE-0024 esta en el area de estacionamiento
+05-05-2024 17:58:09 INFO  Main:166: Bus B-0022 deja 23 en el aeropuerto
+05-05-2024 17:58:09 INFO  Main:166: Bus B-0017 deja 22 en el aeropuerto
+05-05-2024 17:58:09 INFO  Main:15: Bus B-0062 es creado
+05-05-2024 17:58:10 INFO  Main:15: Bus B-0063 es creado
+05-05-2024 17:58:10 INFO  Main:404: Avion MS-0002 (111 pasajeros) accede a pista 0 para despegue
+05-05-2024 17:58:11 INFO  Main:15: Bus B-0064 es creado
+05-05-2024 17:58:11 INFO  Main:25: Avión ME-0025 es creado
+05-05-2024 17:58:11 INFO  Main:220: Avion ME-0025 esta en el hangar
+05-05-2024 17:58:11 INFO  Main:237: Avion ME-0025 esta en el area de estacionamiento
+05-05-2024 17:58:12 INFO  Main:15: Bus B-0065 es creado
+05-05-2024 17:58:12 INFO  Main:15: Bus B-0066 es creado
+05-05-2024 17:58:13 INFO  Main:15: Bus B-0067 es creado
+05-05-2024 17:58:13 INFO  Main:166: Bus B-0024 deja 15 en el aeropuerto
+05-05-2024 17:58:13 INFO  Main:357: Avion ZO-0004 esta en el area de rodaje
+05-05-2024 17:58:13 INFO  Main:50: Avion ZX-0016 accede a puerta de Embarque 1 para embarcar pasajeros
+05-05-2024 17:58:13 INFO  Main:25: Avión HZ-0026 es creado
+05-05-2024 17:58:13 INFO  Main:220: Avion HZ-0026 esta en el hangar
+05-05-2024 17:58:13 INFO  Main:237: Avion HZ-0026 esta en el area de estacionamiento
+05-05-2024 17:58:14 INFO  Main:15: Bus B-0068 es creado
+05-05-2024 17:58:14 INFO  Main:166: Bus B-0026 deja 16 en el aeropuerto
+05-05-2024 17:58:15 INFO  Main:15: Bus B-0069 es creado
+05-05-2024 17:58:16 INFO  Main:15: Bus B-0070 es creado
+05-05-2024 17:58:16 INFO  Main:15: Bus B-0071 es creado
+05-05-2024 17:58:16 INFO  Main:166: Bus B-0019 deja 50 en el aeropuerto
+05-05-2024 17:58:16 INFO  Main:25: Avión ZG-0027 es creado
+05-05-2024 17:58:16 INFO  Main:220: Avion ZG-0027 esta en el hangar
+05-05-2024 17:58:16 INFO  Main:237: Avion ZG-0027 esta en el area de estacionamiento
+05-05-2024 17:58:17 INFO  Main:15: Bus B-0072 es creado
+05-05-2024 17:58:17 INFO  Main:427: Avion MS-0002 (111 pasajeros) accede a aerovia Madrid - Barcelona
+05-05-2024 17:58:17 INFO  Main:404: Avion ZO-0004 (73 pasajeros) accede a pista 0 para despegue
+05-05-2024 17:58:17 INFO  Main:15: Bus B-0073 es creado
+05-05-2024 17:58:18 INFO  Main:15: Bus B-0074 es creado
+05-05-2024 17:58:18 INFO  Main:166: Bus B-0021 deja 5 en el aeropuerto
+05-05-2024 17:58:19 INFO  Main:15: Bus B-0075 es creado
+05-05-2024 17:58:19 INFO  Main:166: Bus B-0028 deja 3 en el aeropuerto
+05-05-2024 17:58:19 INFO  Main:15: Bus B-0076 es creado
+05-05-2024 17:58:19 INFO  Main:25: Avión LS-0028 es creado
+05-05-2024 17:58:19 INFO  Main:220: Avion LS-0028 esta en el hangar
+05-05-2024 17:58:19 INFO  Main:237: Avion LS-0028 esta en el area de estacionamiento
+05-05-2024 17:58:20 INFO  Main:15: Bus B-0077 es creado
+05-05-2024 17:58:21 INFO  Main:15: Bus B-0078 es creado
+05-05-2024 17:58:21 INFO  Main:166: Bus B-0023 deja 27 en el aeropuerto
+05-05-2024 17:58:21 INFO  Main:357: Avion MF-0001 esta en el area de rodaje
+05-05-2024 17:58:21 INFO  Main:50: Avion FW-0013 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:58:21 INFO  Main:25: Avión SZ-0029 es creado
+05-05-2024 17:58:21 INFO  Main:220: Avion SZ-0029 esta en el hangar
+05-05-2024 17:58:21 INFO  Main:237: Avion SZ-0029 esta en el area de estacionamiento
+05-05-2024 17:58:21 INFO  Main:15: Bus B-0079 es creado
+05-05-2024 17:58:22 INFO  Main:15: Bus B-0080 es creado
+05-05-2024 17:58:23 INFO  Main:15: Bus B-0081 es creado
+05-05-2024 17:58:23 INFO  Main:427: Avion ZO-0004 (73 pasajeros) accede a aerovia Madrid - Barcelona
+05-05-2024 17:58:23 INFO  Main:25: Avión DI-0030 es creado
+05-05-2024 17:58:23 INFO  Main:220: Avion DI-0030 esta en el hangar
+05-05-2024 17:58:23 INFO  Main:237: Avion DI-0030 esta en el area de estacionamiento
+05-05-2024 17:58:24 INFO  Main:15: Bus B-0082 es creado
+05-05-2024 17:58:24 INFO  Main:404: Avion MF-0001 (82 pasajeros) accede a pista 0 para despegue
+05-05-2024 17:58:25 INFO  Main:15: Bus B-0083 es creado
+05-05-2024 17:58:25 INFO  Main:25: Avión YQ-0031 es creado
+05-05-2024 17:58:25 INFO  Main:220: Avion YQ-0031 esta en el hangar
+05-05-2024 17:58:25 INFO  Main:237: Avion YQ-0031 esta en el area de estacionamiento
+05-05-2024 17:58:25 INFO  Main:15: Bus B-0084 es creado
+05-05-2024 17:58:26 INFO  Main:166: Bus B-0032 deja 47 en el aeropuerto
+05-05-2024 17:58:26 INFO  Main:357: Avion JH-0006 esta en el area de rodaje
+05-05-2024 17:58:26 INFO  Main:50: Avion SM-0018 accede a puerta de Embarque 2 para embarcar pasajeros
+05-05-2024 17:58:26 INFO  Main:166: Bus B-0025 deja 4 en el aeropuerto
+05-05-2024 17:58:26 INFO  Main:15: Bus B-0085 es creado
+05-05-2024 17:58:26 INFO  Main:357: Avion JA-0003 esta en el area de rodaje
+05-05-2024 17:58:26 INFO  Main:50: Avion OS-0015 accede a puerta de Embarque 1 para embarcar pasajeros
+05-05-2024 17:58:26 INFO  Main:25: Avión NV-0032 es creado
+05-05-2024 17:58:26 INFO  Main:220: Avion NV-0032 esta en el hangar
+05-05-2024 17:58:26 INFO  Main:237: Avion NV-0032 esta en el area de estacionamiento
+05-05-2024 17:58:27 INFO  Main:15: Bus B-0086 es creado
+05-05-2024 17:58:27 INFO  Main:166: Bus B-0030 deja 16 en el aeropuerto
+05-05-2024 17:58:27 INFO  Main:357: Avion UN-0008 esta en el area de rodaje
+05-05-2024 17:58:27 INFO  Main:50: Avion FB-0020 accede a puerta de Embarque 3 para embarcar pasajeros
+05-05-2024 17:58:27 INFO  Main:404: Avion JH-0006 (81 pasajeros) accede a pista 0 para despegue
+05-05-2024 17:58:27 INFO  Main:404: Avion JA-0003 (54 pasajeros) accede a pista 1 para despegue
+05-05-2024 17:58:28 INFO  Main:15: Bus B-0087 es creado
+05-05-2024 17:58:28 INFO  Main:430: Avion MF-0001 (82 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 17:58:28 INFO  Main:15: Bus B-0088 es creado
+05-05-2024 17:58:29 INFO  Main:25: Avión OR-0033 es creado
+05-05-2024 17:58:29 INFO  Main:15: Bus B-0089 es creado
+05-05-2024 17:58:29 INFO  Main:220: Avion OR-0033 esta en el hangar
+05-05-2024 17:58:29 INFO  Main:237: Avion OR-0033 esta en el area de estacionamiento
+05-05-2024 17:58:30 INFO  Main:427: Avion JH-0006 (81 pasajeros) accede a aerovia Madrid - Barcelona
+05-05-2024 17:58:30 INFO  Main:166: Bus B-0029 deja 44 en el aeropuerto
+05-05-2024 17:58:30 INFO  Main:357: Avion UJ-0007 esta en el area de rodaje
+05-05-2024 17:58:30 INFO  Main:50: Avion RU-0017 accede a puerta de Embarque 3 para embarcar pasajeros
+05-05-2024 17:58:30 INFO  Main:430: Avion JA-0003 (54 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 17:58:30 INFO  Main:15: Bus B-0090 es creado
+05-05-2024 17:58:30 INFO  Main:25: Avión CJ-0034 es creado
+05-05-2024 17:58:30 INFO  Main:220: Avion CJ-0034 esta en el hangar
+05-05-2024 17:58:30 INFO  Main:237: Avion CJ-0034 esta en el area de estacionamiento
+05-05-2024 17:58:31 INFO  Main:15: Bus B-0091 es creado
+05-05-2024 17:58:31 INFO  Main:404: Avion UN-0008 (56 pasajeros) accede a pista 0 para despegue
+05-05-2024 17:58:31 INFO  Main:404: Avion UJ-0007 (100 pasajeros) accede a pista 0 para despegue
+05-05-2024 17:58:31 INFO  Main:25: Avión US-0035 es creado
+05-05-2024 17:58:31 INFO  Main:220: Avion US-0035 esta en el hangar
+05-05-2024 17:58:31 INFO  Main:237: Avion US-0035 esta en el area de estacionamiento
+05-05-2024 17:58:32 INFO  Main:15: Bus B-0092 es creado
+05-05-2024 17:58:32 INFO  Main:166: Bus B-0027 deja 7 en el aeropuerto
+05-05-2024 17:58:32 INFO  Main:357: Avion NL-0005 esta en el area de rodaje
+05-05-2024 17:58:32 INFO  Main:50: Avion VK-0019 accede a puerta de Embarque 2 para embarcar pasajeros
+05-05-2024 17:58:33 INFO  Main:15: Bus B-0093 es creado
+05-05-2024 17:58:33 INFO  Main:166: Bus B-0036 deja 2 en el aeropuerto
+05-05-2024 17:58:34 INFO  Main:15: Bus B-0094 es creado
+05-05-2024 17:58:34 INFO  Main:15: Bus B-0095 es creado
+05-05-2024 17:58:34 INFO  Main:427: Avion UN-0008 (56 pasajeros) accede a aerovia Madrid - Barcelona
+05-05-2024 17:58:34 INFO  Main:166: Bus B-0031 deja 28 en el aeropuerto
+05-05-2024 17:58:34 INFO  Main:357: Avion BK-0009 esta en el area de rodaje
+05-05-2024 17:58:34 INFO  Main:50: Avion IP-0021 accede a puerta de Embarque 4 para embarcar pasajeros
+05-05-2024 17:58:34 INFO  Main:25: Avión EO-0036 es creado
+05-05-2024 17:58:34 INFO  Main:220: Avion EO-0036 esta en el hangar
+05-05-2024 17:58:34 INFO  Main:237: Avion EO-0036 esta en el area de estacionamiento
+05-05-2024 17:58:35 INFO  Main:15: Bus B-0096 es creado
+05-05-2024 17:58:35 INFO  Main:166: Bus B-0034 deja 29 en el aeropuerto
+05-05-2024 17:58:35 INFO  Main:15: Bus B-0097 es creado
+05-05-2024 17:58:36 INFO  Main:15: Bus B-0098 es creado
+05-05-2024 17:58:36 INFO  Main:25: Avión FR-0037 es creado
+05-05-2024 17:58:36 INFO  Main:220: Avion FR-0037 esta en el hangar
+05-05-2024 17:58:36 INFO  Main:237: Avion FR-0037 esta en el area de estacionamiento
+05-05-2024 17:58:37 INFO  Main:15: Bus B-0099 es creado
+05-05-2024 17:58:37 INFO  Main:166: Bus B-0038 deja 39 en el aeropuerto
+05-05-2024 17:58:37 INFO  Main:357: Avion NM-0010 esta en el area de rodaje
+05-05-2024 17:58:37 INFO  Main:50: Avion AM-0022 accede a puerta de Embarque 4 para embarcar pasajeros
+05-05-2024 17:58:37 INFO  Main:404: Avion NL-0005 (55 pasajeros) accede a pista 1 para despegue
+05-05-2024 17:58:37 INFO  Main:430: Avion UJ-0007 (100 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 17:58:38 INFO  Main:15: Bus B-0100 es creado
+05-05-2024 17:58:38 INFO  Main:404: Avion NM-0010 (60 pasajeros) accede a pista 0 para despegue
+05-05-2024 17:58:38 INFO  Main:166: Bus B-0040 deja 22 en el aeropuerto
+05-05-2024 17:58:38 INFO  Main:166: Bus B-0033 deja 9 en el aeropuerto
+05-05-2024 17:58:38 INFO  Main:404: Avion BK-0009 (48 pasajeros) accede a pista 0 para despegue
+05-05-2024 17:58:38 INFO  Main:15: Bus B-0101 es creado
+05-05-2024 17:58:38 INFO  Main:25: Avión FN-0038 es creado
+05-05-2024 17:58:38 INFO  Main:220: Avion FN-0038 esta en el hangar
+05-05-2024 17:58:38 INFO  Main:237: Avion FN-0038 esta en el area de estacionamiento
+05-05-2024 17:58:39 INFO  Main:15: Bus B-0102 es creado
+05-05-2024 17:58:40 INFO  Main:15: Bus B-0103 es creado
+05-05-2024 17:58:40 INFO  Main:430: Avion NL-0005 (55 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 17:58:40 INFO  Main:25: Avión CE-0039 es creado
+05-05-2024 17:58:40 INFO  Main:220: Avion CE-0039 esta en el hangar
+05-05-2024 17:58:40 INFO  Main:237: Avion CE-0039 esta en el area de estacionamiento
+05-05-2024 17:58:41 INFO  Main:15: Bus B-0104 es creado
+05-05-2024 17:58:41 INFO  Main:430: Avion BK-0009 (48 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 17:58:41 INFO  Main:15: Bus B-0105 es creado
+05-05-2024 17:58:42 INFO  Main:15: Bus B-0106 es creado
+05-05-2024 17:58:42 INFO  Main:407: Avion MS-0002 (111 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 17:58:42 INFO  Main:166: Bus B-0035 deja 35 en el aeropuerto
+05-05-2024 17:58:42 INFO  Main:25: Avión KM-0040 es creado
+05-05-2024 17:58:42 INFO  Main:220: Avion KM-0040 esta en el hangar
+05-05-2024 17:58:42 INFO  Main:237: Avion KM-0040 esta en el area de estacionamiento
+05-05-2024 17:58:43 INFO  Main:15: Bus B-0107 es creado
+05-05-2024 17:58:44 INFO  Main:25: Avión OT-0041 es creado
+05-05-2024 17:58:44 INFO  Main:220: Avion OT-0041 esta en el hangar
+05-05-2024 17:58:44 INFO  Main:237: Avion OT-0041 esta en el area de estacionamiento
+05-05-2024 17:58:44 INFO  Main:15: Bus B-0108 es creado
+05-05-2024 17:58:44 INFO  Main:15: Bus B-0109 es creado
+05-05-2024 17:58:44 INFO  Main:407: Avion ZO-0004 (73 pasajeros) accede a pista 1 para atterizaje
+05-05-2024 17:58:45 INFO  Main:15: Bus B-0110 es creado
+05-05-2024 17:58:45 INFO  Main:407: Avion MF-0001 (82 pasajeros) accede a pista 1 para atterizaje
+05-05-2024 17:58:46 INFO  Main:25: Avión GU-0042 es creado
+05-05-2024 17:58:46 INFO  Main:220: Avion GU-0042 esta en el hangar
+05-05-2024 17:58:46 INFO  Main:237: Avion GU-0042 esta en el area de estacionamiento
+05-05-2024 17:58:46 INFO  Main:15: Bus B-0111 es creado
+05-05-2024 17:58:46 INFO  Main:166: Bus B-0044 deja 34 en el aeropuerto
+05-05-2024 17:58:46 INFO  Main:427: Avion NM-0010 (60 pasajeros) accede a aerovia Madrid - Barcelona
+05-05-2024 17:58:46 INFO  Main:15: Bus B-0112 es creado
+05-05-2024 17:58:47 INFO  Main:15: Bus B-0113 es creado
+05-05-2024 17:58:47 INFO  Main:357: Avion MS-0002 esta en el area de rodaje
+05-05-2024 17:58:47 INFO  Main:357: Avion ZO-0004 esta en el area de rodaje
+05-05-2024 17:58:47 INFO  Main:166: Bus B-0042 deja 22 en el aeropuerto
+05-05-2024 17:58:48 INFO  Main:25: Avión LV-0043 es creado
+05-05-2024 17:58:48 INFO  Main:220: Avion LV-0043 esta en el hangar
+05-05-2024 17:58:48 INFO  Main:237: Avion LV-0043 esta en el area de estacionamiento
+05-05-2024 17:58:48 INFO  Main:15: Bus B-0114 es creado
+05-05-2024 17:58:48 INFO  Main:166: Bus B-0037 deja 19 en el aeropuerto
+05-05-2024 17:58:48 INFO  Main:357: Avion MF-0001 esta en el area de rodaje
+05-05-2024 17:58:48 INFO  Main:15: Bus B-0115 es creado
+05-05-2024 17:58:49 INFO  Main:15: Bus B-0116 es creado
+05-05-2024 17:58:50 INFO  Main:25: Avión GX-0044 es creado
+05-05-2024 17:58:50 INFO  Main:220: Avion GX-0044 esta en el hangar
+05-05-2024 17:58:50 INFO  Main:237: Avion GX-0044 esta en el area de estacionamiento
+05-05-2024 17:58:50 INFO  Main:15: Bus B-0117 es creado
+05-05-2024 17:58:50 INFO  Main:79: Avion MS-0002 accede a puerta de Embarque 0 para desembarcar 111 pasajeros
+05-05-2024 17:58:50 INFO  Main:79: Avion ZO-0004 accede a puerta de Embarque 0 para desembarcar 73 pasajeros
+05-05-2024 17:58:51 INFO  Main:15: Bus B-0118 es creado
+05-05-2024 17:58:51 INFO  Main:15: Bus B-0119 es creado
+05-05-2024 17:58:52 INFO  Main:15: Bus B-0120 es creado
+05-05-2024 17:58:52 INFO  Main:237: Avion MS-0002 esta en el area de estacionamiento
+05-05-2024 17:58:52 INFO  Main:50: Avion DY-0023 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:58:52 INFO  Main:166: Bus B-0046 deja 23 en el aeropuerto
+05-05-2024 17:58:52 INFO  Main:166: Bus B-0048 deja 4 en el aeropuerto
+05-05-2024 17:58:52 INFO  Main:357: Avion PD-0012 esta en el area de rodaje
+05-05-2024 17:58:52 INFO  Main:50: Avion FE-0024 accede a puerta de Embarque 5 para embarcar pasajeros
+05-05-2024 17:58:52 INFO  Main:407: Avion JA-0003 (54 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 17:58:52 INFO  Main:407: Avion UJ-0007 (100 pasajeros) accede a pista 1 para atterizaje
+05-05-2024 17:58:53 INFO  Main:25: Avión DT-0045 es creado
+05-05-2024 17:58:53 INFO  Main:220: Avion DT-0045 esta en el hangar
+05-05-2024 17:58:53 INFO  Main:237: Avion DT-0045 esta en el area de estacionamiento
+05-05-2024 17:58:53 INFO  Main:15: Bus B-0121 es creado
+05-05-2024 17:58:53 INFO  Main:357: Avion UJ-0007 esta en el area de rodaje
+05-05-2024 17:58:53 INFO  Main:79: Avion MF-0001 accede a puerta de Embarque 0 para desembarcar 82 pasajeros
+05-05-2024 17:58:53 INFO  Main:15: Bus B-0122 es creado
+05-05-2024 17:58:54 INFO  Main:25: Avión WB-0046 es creado
+05-05-2024 17:58:54 INFO  Main:220: Avion WB-0046 esta en el hangar
+05-05-2024 17:58:54 INFO  Main:237: Avion WB-0046 esta en el area de estacionamiento
+05-05-2024 17:58:54 INFO  Main:15: Bus B-0123 es creado
+05-05-2024 17:58:54 INFO  Main:166: Bus B-0041 deja 8 en el aeropuerto
+05-05-2024 17:58:55 INFO  Main:15: Bus B-0124 es creado
+05-05-2024 17:58:55 INFO  Main:457: Avion MS-0002 esta en el taller
+05-05-2024 17:58:55 INFO  Main:404: Avion PD-0012 (22 pasajeros) accede a pista 1 para despegue
+05-05-2024 17:58:55 INFO  Main:166: Bus B-0050 deja 46 en el aeropuerto
+05-05-2024 17:58:55 INFO  Main:357: Avion JA-0003 esta en el area de rodaje
+05-05-2024 17:58:55 INFO  Main:166: Bus B-0039 deja 21 en el aeropuerto
+05-05-2024 17:58:56 INFO  Main:15: Bus B-0125 es creado
+05-05-2024 17:58:56 INFO  Main:237: Avion ZO-0004 esta en el area de estacionamiento
+05-05-2024 17:58:56 INFO  Main:50: Avion ME-0025 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:58:56 INFO  Main:79: Avion UJ-0007 accede a puerta de Embarque 0 para desembarcar 100 pasajeros
+05-05-2024 17:58:56 INFO  Main:15: Bus B-0126 es creado
+05-05-2024 17:58:57 INFO  Main:25: Avión TE-0047 es creado
+05-05-2024 17:58:57 INFO  Main:220: Avion TE-0047 esta en el hangar
+05-05-2024 17:58:57 INFO  Main:237: Avion TE-0047 esta en el area de estacionamiento
+05-05-2024 17:58:57 INFO  Main:407: Avion JH-0006 (81 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 17:58:57 INFO  Main:15: Bus B-0127 es creado
+05-05-2024 17:58:58 INFO  Main:25: Avión KI-0048 es creado
+05-05-2024 17:58:58 INFO  Main:220: Avion KI-0048 esta en el hangar
+05-05-2024 17:58:58 INFO  Main:237: Avion KI-0048 esta en el area de estacionamiento
+05-05-2024 17:58:58 INFO  Main:15: Bus B-0128 es creado
+05-05-2024 17:58:58 INFO  Main:427: Avion PD-0012 (22 pasajeros) accede a aerovia Madrid - Barcelona
+05-05-2024 17:58:58 INFO  Main:79: Avion JA-0003 accede a puerta de Embarque 0 para desembarcar 54 pasajeros
+05-05-2024 17:58:58 INFO  Main:237: Avion MF-0001 esta en el area de estacionamiento
+05-05-2024 17:58:58 INFO  Main:50: Avion HZ-0026 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:58:58 INFO  Main:166: Bus B-0043 deja 19 en el aeropuerto
+05-05-2024 17:58:59 INFO  Main:15: Bus B-0129 es creado
+05-05-2024 17:58:59 INFO  Main:357: Avion JH-0006 esta en el area de rodaje
+05-05-2024 17:59:00 INFO  Main:15: Bus B-0130 es creado
+05-05-2024 17:59:01 INFO  Main:15: Bus B-0131 es creado
+05-05-2024 17:59:01 INFO  Main:25: Avión WA-0049 es creado
+05-05-2024 17:59:01 INFO  Main:220: Avion WA-0049 esta en el hangar
+05-05-2024 17:59:01 INFO  Main:237: Avion WA-0049 esta en el area de estacionamiento
+05-05-2024 17:59:01 INFO  Main:15: Bus B-0132 es creado
+05-05-2024 17:59:01 INFO  Main:457: Avion ZO-0004 esta en el taller
+05-05-2024 17:59:01 INFO  Main:237: Avion UJ-0007 esta en el area de estacionamiento
+05-05-2024 17:59:01 INFO  Main:50: Avion LS-0028 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:59:02 INFO  Main:25: Avión KK-0050 es creado
+05-05-2024 17:59:02 INFO  Main:220: Avion KK-0050 esta en el hangar
+05-05-2024 17:59:02 INFO  Main:237: Avion KK-0050 esta en el area de estacionamiento
+05-05-2024 17:59:02 INFO  Main:15: Bus B-0133 es creado
+05-05-2024 17:59:02 INFO  Main:220: Avion MS-0002 esta en el hangar
+05-05-2024 17:59:02 INFO  Main:166: Bus B-0052 deja 44 en el aeropuerto
+05-05-2024 17:59:02 INFO  Main:357: Avion UG-0014 esta en el area de rodaje
+05-05-2024 17:59:02 INFO  Main:50: Avion DI-0030 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:59:02 INFO  Main:166: Bus B-0045 deja 11 en el aeropuerto
+05-05-2024 17:59:02 INFO  Main:15: Bus B-0134 es creado
+05-05-2024 17:59:03 INFO  Main:15: Bus B-0135 es creado
+05-05-2024 17:59:04 INFO  Main:15: Bus B-0136 es creado
+05-05-2024 17:59:04 INFO  Main:407: Avion UN-0008 (56 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 17:59:04 INFO  Main:79: Avion JH-0006 accede a puerta de Embarque 0 para desembarcar 81 pasajeros
+05-05-2024 17:59:04 INFO  Main:220: Avion ZO-0004 esta en el hangar
+05-05-2024 17:59:04 INFO  Main:407: Avion NL-0005 (55 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 17:59:04 INFO  Main:15: Bus B-0137 es creado
+05-05-2024 17:59:04 INFO  Main:166: Bus B-0054 deja 34 en el aeropuerto
+05-05-2024 17:59:04 INFO  Main:404: Avion UG-0014 (69 pasajeros) accede a pista 1 para despegue
+05-05-2024 17:59:04 INFO  Main:457: Avion MF-0001 esta en el taller
+05-05-2024 17:59:05 INFO  Main:25: Avión TZ-0051 es creado
+05-05-2024 17:59:05 INFO  Main:220: Avion TZ-0051 esta en el hangar
+05-05-2024 17:59:05 INFO  Main:237: Avion TZ-0051 esta en el area de estacionamiento
+05-05-2024 17:59:05 INFO  Main:15: Bus B-0138 es creado
+05-05-2024 17:59:05 INFO  Main:166: Bus B-0056 deja 44 en el aeropuerto
+05-05-2024 17:59:06 INFO  Main:15: Bus B-0139 es creado
+05-05-2024 17:59:06 INFO  Main:357: Avion UN-0008 esta en el area de rodaje
+05-05-2024 17:59:06 INFO  Main:407: Avion BK-0009 (48 pasajeros) accede a pista 2 para atterizaje
+05-05-2024 17:59:06 INFO  Main:457: Avion UJ-0007 esta en el taller
+05-05-2024 17:59:07 INFO  Main:15: Bus B-0140 es creado
+05-05-2024 17:59:07 INFO  Main:166: Bus B-0047 deja 8 en el aeropuerto
+05-05-2024 17:59:07 INFO  Main:427: Avion UG-0014 (69 pasajeros) accede a aerovia Madrid - Barcelona
+05-05-2024 17:59:07 INFO  Main:357: Avion TV-0011 esta en el area de rodaje
+05-05-2024 17:59:07 INFO  Main:50: Avion ZG-0027 accede a puerta de Embarque 5 para embarcar pasajeros
+05-05-2024 17:59:07 INFO  Main:15: Bus B-0141 es creado
+05-05-2024 17:59:08 INFO  Main:25: Avión TH-0052 es creado
+05-05-2024 17:59:08 INFO  Main:220: Avion TH-0052 esta en el hangar
+05-05-2024 17:59:08 INFO  Main:237: Avion TH-0052 esta en el area de estacionamiento
+05-05-2024 17:59:08 INFO  Main:15: Bus B-0142 es creado
+05-05-2024 17:59:09 INFO  Main:15: Bus B-0143 es creado
+05-05-2024 17:59:09 INFO  Main:357: Avion NL-0005 esta en el area de rodaje
+05-05-2024 17:59:09 INFO  Main:237: Avion JA-0003 esta en el area de estacionamiento
+05-05-2024 17:59:09 INFO  Main:50: Avion NV-0032 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:59:10 INFO  Main:15: Bus B-0144 es creado
+05-05-2024 17:59:10 INFO  Main:25: Avión NR-0053 es creado
+05-05-2024 17:59:10 INFO  Main:220: Avion NR-0053 esta en el hangar
+05-05-2024 17:59:10 INFO  Main:237: Avion NR-0053 esta en el area de estacionamiento
+05-05-2024 17:59:10 INFO  Main:15: Bus B-0145 es creado
+05-05-2024 17:59:10 INFO  Main:79: Avion UN-0008 accede a puerta de Embarque 0 para desembarcar 56 pasajeros
+05-05-2024 17:59:10 INFO  Main:357: Avion BK-0009 esta en el area de rodaje
+05-05-2024 17:59:10 INFO  Main:220: Avion UJ-0007 esta en el hangar
+05-05-2024 17:59:11 INFO  Main:25: Avión US-0054 es creado
+05-05-2024 17:59:11 INFO  Main:220: Avion US-0054 esta en el hangar
+05-05-2024 17:59:11 INFO  Main:237: Avion US-0054 esta en el area de estacionamiento
+05-05-2024 17:59:11 INFO  Main:15: Bus B-0146 es creado
+05-05-2024 17:59:11 INFO  Main:407: Avion NM-0010 (60 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 17:59:11 INFO  Main:50: Avion SZ-0029 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:59:11 INFO  Main:237: Avion JH-0006 esta en el area de estacionamiento
+05-05-2024 17:59:11 INFO  Main:220: Avion MF-0001 esta en el hangar
+05-05-2024 17:59:11 INFO  Main:237: Avion MF-0001 esta en el area de estacionamiento
+05-05-2024 17:59:11 INFO  Main:15: Bus B-0147 es creado
+05-05-2024 17:59:12 INFO  Main:15: Bus B-0148 es creado
+05-05-2024 17:59:12 INFO  Main:166: Bus B-0058 deja 44 en el aeropuerto
+05-05-2024 17:59:12 INFO  Main:166: Bus B-0060 deja 12 en el aeropuerto
+05-05-2024 17:59:12 INFO  Main:404: Avion TV-0011 (93 pasajeros) accede a pista 1 para despegue
+05-05-2024 17:59:13 INFO  Main:25: Avión AM-0055 es creado
+05-05-2024 17:59:13 INFO  Main:220: Avion AM-0055 esta en el hangar
+05-05-2024 17:59:13 INFO  Main:237: Avion AM-0055 esta en el area de estacionamiento
+05-05-2024 17:59:13 INFO  Main:15: Bus B-0149 es creado
+05-05-2024 17:59:13 INFO  Main:166: Bus B-0049 deja 39 en el aeropuerto
+05-05-2024 17:59:13 INFO  Main:457: Avion JA-0003 esta en el taller
+05-05-2024 17:59:13 INFO  Main:15: Bus B-0150 es creado
+05-05-2024 17:59:14 INFO  Main:25: Avión FM-0056 es creado
+05-05-2024 17:59:14 INFO  Main:220: Avion FM-0056 esta en el hangar
+05-05-2024 17:59:14 INFO  Main:237: Avion FM-0056 esta en el area de estacionamiento
+05-05-2024 17:59:14 INFO  Main:15: Bus B-0151 es creado
+05-05-2024 17:59:14 INFO  Main:79: Avion NL-0005 accede a puerta de Embarque 0 para desembarcar 55 pasajeros
+05-05-2024 17:59:15 INFO  Main:15: Bus B-0152 es creado
+05-05-2024 17:59:15 INFO  Main:79: Avion BK-0009 accede a puerta de Embarque 0 para desembarcar 48 pasajeros
+05-05-2024 17:59:15 INFO  Main:166: Bus B-0051 deja 45 en el aeropuerto
+05-05-2024 17:59:16 INFO  Main:15: Bus B-0153 es creado
+05-05-2024 17:59:16 INFO  Main:25: Avión FB-0057 es creado
+05-05-2024 17:59:16 INFO  Main:220: Avion FB-0057 esta en el hangar
+05-05-2024 17:59:16 INFO  Main:237: Avion FB-0057 esta en el area de estacionamiento
+05-05-2024 17:59:16 INFO  Main:15: Bus B-0154 es creado
+05-05-2024 17:59:16 INFO  Main:357: Avion NM-0010 esta en el area de rodaje
+05-05-2024 17:59:16 INFO  Main:407: Avion PD-0012 (22 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 17:59:16 INFO  Main:220: Avion JA-0003 esta en el hangar
+05-05-2024 17:59:16 INFO  Main:237: Avion JA-0003 esta en el area de estacionamiento
+05-05-2024 17:59:17 INFO  Main:25: Avión YO-0058 es creado
+05-05-2024 17:59:17 INFO  Main:220: Avion YO-0058 esta en el hangar
+05-05-2024 17:59:17 INFO  Main:237: Avion YO-0058 esta en el area de estacionamiento
+05-05-2024 17:59:17 INFO  Main:15: Bus B-0155 es creado
+05-05-2024 17:59:17 INFO  Main:457: Avion JH-0006 esta en el taller
+05-05-2024 17:59:18 INFO  Main:25: Avión GP-0059 es creado
+05-05-2024 17:59:18 INFO  Main:220: Avion GP-0059 esta en el hangar
+05-05-2024 17:59:18 INFO  Main:237: Avion GP-0059 esta en el area de estacionamiento
+05-05-2024 17:59:18 INFO  Main:15: Bus B-0156 es creado
+05-05-2024 17:59:18 INFO  Main:166: Bus B-0053 deja 4 en el aeropuerto
+05-05-2024 17:59:18 INFO  Main:430: Avion TV-0011 (93 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 17:59:18 INFO  Main:15: Bus B-0157 es creado
+05-05-2024 17:59:19 INFO  Main:15: Bus B-0158 es creado
+05-05-2024 17:59:19 INFO  Main:220: Avion ZO-0004 esta en el hangar
+05-05-2024 17:59:19 INFO  Main:237: Avion ZO-0004 esta en el area de estacionamiento
+05-05-2024 17:59:19 INFO  Main:166: Bus B-0062 deja 25 en el aeropuerto
+05-05-2024 17:59:19 INFO  Main:357: Avion ZX-0016 esta en el area de rodaje
+05-05-2024 17:59:19 INFO  Main:50: Avion CJ-0034 accede a puerta de Embarque 1 para embarcar pasajeros
+05-05-2024 17:59:20 INFO  Main:15: Bus B-0159 es creado
+05-05-2024 17:59:20 INFO  Main:15: Bus B-0160 es creado
+05-05-2024 17:59:20 INFO  Main:357: Avion PD-0012 esta en el area de rodaje
+05-05-2024 17:59:20 INFO  Main:404: Avion ZX-0016 (100 pasajeros) accede a pista 0 para despegue
+05-05-2024 17:59:21 INFO  Main:25: Avión KY-0060 es creado
+05-05-2024 17:59:21 INFO  Main:220: Avion KY-0060 esta en el hangar
+05-05-2024 17:59:21 INFO  Main:237: Avion KY-0060 esta en el area de estacionamiento
+05-05-2024 17:59:21 INFO  Main:15: Bus B-0161 es creado
+05-05-2024 17:59:21 INFO  Main:79: Avion NM-0010 accede a puerta de Embarque 0 para desembarcar 60 pasajeros
+05-05-2024 17:59:22 INFO  Main:15: Bus B-0162 es creado
+05-05-2024 17:59:22 INFO  Main:220: Avion JH-0006 esta en el hangar
+05-05-2024 17:59:22 INFO  Main:237: Avion JH-0006 esta en el area de estacionamiento
+05-05-2024 17:59:23 INFO  Main:15: Bus B-0163 es creado
+05-05-2024 17:59:23 INFO  Main:15: Bus B-0164 es creado
+05-05-2024 17:59:23 INFO  Main:237: Avion UN-0008 esta en el area de estacionamiento
+05-05-2024 17:59:23 INFO  Main:50: Avion YQ-0031 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:59:24 INFO  Main:25: Avión NP-0061 es creado
+05-05-2024 17:59:24 INFO  Main:220: Avion NP-0061 esta en el hangar
+05-05-2024 17:59:24 INFO  Main:237: Avion NP-0061 esta en el area de estacionamiento
+05-05-2024 17:59:24 INFO  Main:15: Bus B-0165 es creado
+05-05-2024 17:59:24 INFO  Main:220: Avion MS-0002 esta en el hangar
+05-05-2024 17:59:24 INFO  Main:237: Avion MS-0002 esta en el area de estacionamiento
+05-05-2024 17:59:24 INFO  Main:79: Avion PD-0012 accede a puerta de Embarque 0 para desembarcar 22 pasajeros
+05-05-2024 17:59:24 INFO  Main:166: Bus B-0064 deja 45 en el aeropuerto
+05-05-2024 17:59:24 INFO  Main:427: Avion ZX-0016 (100 pasajeros) accede a aerovia Madrid - Barcelona
+05-05-2024 17:59:24 INFO  Main:166: Bus B-0066 deja 26 en el aeropuerto
+05-05-2024 17:59:25 INFO  Main:15: Bus B-0166 es creado
+05-05-2024 17:59:25 INFO  Main:15: Bus B-0167 es creado
+05-05-2024 17:59:25 INFO  Main:166: Bus B-0055 deja 2 en el aeropuerto
+05-05-2024 17:59:25 INFO  Main:220: Avion UJ-0007 esta en el hangar
+05-05-2024 17:59:25 INFO  Main:237: Avion UJ-0007 esta en el area de estacionamiento
+05-05-2024 17:59:26 INFO  Main:25: Avión GL-0062 es creado
+05-05-2024 17:59:26 INFO  Main:220: Avion GL-0062 esta en el hangar
+05-05-2024 17:59:26 INFO  Main:237: Avion GL-0062 esta en el area de estacionamiento
+05-05-2024 17:59:26 INFO  Main:15: Bus B-0168 es creado
+05-05-2024 17:59:26 INFO  Main:15: Bus B-0169 es creado
+05-05-2024 17:59:27 INFO  Main:25: Avión QM-0063 es creado
+05-05-2024 17:59:27 INFO  Main:220: Avion QM-0063 esta en el hangar
+05-05-2024 17:59:27 INFO  Main:237: Avion QM-0063 esta en el area de estacionamiento
+05-05-2024 17:59:27 INFO  Main:15: Bus B-0170 es creado
+05-05-2024 17:59:27 INFO  Main:457: Avion UN-0008 esta en el taller
+05-05-2024 17:59:27 INFO  Main:166: Bus B-0059 deja 7 en el aeropuerto
+05-05-2024 17:59:27 INFO  Main:50: Avion EO-0036 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:59:27 INFO  Main:237: Avion BK-0009 esta en el area de estacionamiento
+05-05-2024 17:59:27 INFO  Main:237: Avion NL-0005 esta en el area de estacionamiento
+05-05-2024 17:59:28 INFO  Main:15: Bus B-0171 es creado
+05-05-2024 17:59:29 INFO  Main:25: Avión EQ-0064 es creado
+05-05-2024 17:59:29 INFO  Main:220: Avion EQ-0064 esta en el hangar
+05-05-2024 17:59:29 INFO  Main:237: Avion EQ-0064 esta en el area de estacionamiento
+05-05-2024 17:59:29 INFO  Main:15: Bus B-0172 es creado
+05-05-2024 17:59:29 INFO  Main:15: Bus B-0173 es creado
+05-05-2024 17:59:29 INFO  Main:166: Bus B-0057 deja 49 en el aeropuerto
+05-05-2024 17:59:29 INFO  Main:457: Avion BK-0009 esta en el taller
+05-05-2024 17:59:30 INFO  Main:25: Avión YC-0065 es creado
+05-05-2024 17:59:30 INFO  Main:220: Avion YC-0065 esta en el hangar
+05-05-2024 17:59:30 INFO  Main:237: Avion YC-0065 esta en el area de estacionamiento
+05-05-2024 17:59:30 INFO  Main:15: Bus B-0174 es creado
+05-05-2024 17:59:30 INFO  Main:166: Bus B-0068 deja 12 en el aeropuerto
+05-05-2024 17:59:31 INFO  Main:15: Bus B-0175 es creado
+05-05-2024 17:59:31 INFO  Main:220: Avion UN-0008 esta en el hangar
+05-05-2024 17:59:31 INFO  Main:237: Avion UN-0008 esta en el area de estacionamiento
+05-05-2024 17:59:31 INFO  Main:407: Avion UG-0014 (69 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 17:59:31 INFO  Main:166: Bus B-0070 deja 41 en el aeropuerto
+05-05-2024 17:59:32 INFO  Main:15: Bus B-0176 es creado
+05-05-2024 17:59:32 INFO  Main:25: Avión KR-0066 es creado
+05-05-2024 17:59:32 INFO  Main:220: Avion KR-0066 esta en el hangar
+05-05-2024 17:59:32 INFO  Main:237: Avion KR-0066 esta en el area de estacionamiento
+05-05-2024 17:59:32 INFO  Main:15: Bus B-0177 es creado
+05-05-2024 17:59:32 INFO  Main:237: Avion NM-0010 esta en el area de estacionamiento
+05-05-2024 17:59:32 INFO  Main:50: Avion OR-0033 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:59:32 INFO  Main:357: Avion UG-0014 esta en el area de rodaje
+05-05-2024 17:59:33 INFO  Main:15: Bus B-0178 es creado
+05-05-2024 17:59:33 INFO  Main:457: Avion NL-0005 esta en el taller
+05-05-2024 17:59:34 INFO  Main:25: Avión UB-0067 es creado
+05-05-2024 17:59:34 INFO  Main:220: Avion UB-0067 esta en el hangar
+05-05-2024 17:59:34 INFO  Main:237: Avion UB-0067 esta en el area de estacionamiento
+05-05-2024 17:59:34 INFO  Main:15: Bus B-0179 es creado
+05-05-2024 17:59:34 INFO  Main:220: Avion BK-0009 esta en el hangar
+05-05-2024 17:59:34 INFO  Main:237: Avion BK-0009 esta en el area de estacionamiento
+05-05-2024 17:59:35 INFO  Main:15: Bus B-0180 es creado
+05-05-2024 17:59:35 INFO  Main:15: Bus B-0181 es creado
+05-05-2024 17:59:35 INFO  Main:457: Avion NM-0010 esta en el taller
+05-05-2024 17:59:35 INFO  Main:166: Bus B-0072 deja 21 en el aeropuerto
+05-05-2024 17:59:36 INFO  Main:15: Bus B-0182 es creado
+05-05-2024 17:59:36 INFO  Main:79: Avion UG-0014 accede a puerta de Embarque 0 para desembarcar 69 pasajeros
+05-05-2024 17:59:36 INFO  Main:166: Bus B-0061 deja 7 en el aeropuerto
+05-05-2024 17:59:36 INFO  Main:357: Avion FW-0013 esta en el area de rodaje
+05-05-2024 17:59:36 INFO  Main:50: Avion US-0035 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:59:37 INFO  Main:15: Bus B-0183 es creado
+05-05-2024 17:59:37 INFO  Main:25: Avión MU-0068 es creado
+05-05-2024 17:59:37 INFO  Main:220: Avion MU-0068 esta en el hangar
+05-05-2024 17:59:37 INFO  Main:237: Avion MU-0068 esta en el area de estacionamiento
+05-05-2024 17:59:37 INFO  Main:15: Bus B-0184 es creado
+05-05-2024 17:59:37 INFO  Main:166: Bus B-0063 deja 37 en el aeropuerto
+05-05-2024 17:59:37 INFO  Main:407: Avion TV-0011 (93 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 17:59:38 INFO  Main:15: Bus B-0185 es creado
+05-05-2024 17:59:38 INFO  Main:15: Bus B-0186 es creado
+05-05-2024 17:59:38 INFO  Main:220: Avion NM-0010 esta en el hangar
+05-05-2024 17:59:38 INFO  Main:166: Bus B-0076 deja 19 en el aeropuerto
+05-05-2024 17:59:38 INFO  Main:166: Bus B-0074 deja 48 en el aeropuerto
+05-05-2024 17:59:39 INFO  Main:25: Avión KP-0069 es creado
+05-05-2024 17:59:39 INFO  Main:220: Avion KP-0069 esta en el hangar
+05-05-2024 17:59:39 INFO  Main:237: Avion KP-0069 esta en el area de estacionamiento
+05-05-2024 17:59:39 INFO  Main:15: Bus B-0187 es creado
+05-05-2024 17:59:39 INFO  Main:404: Avion FW-0013 (27 pasajeros) accede a pista 0 para despegue
+05-05-2024 17:59:39 INFO  Main:220: Avion NL-0005 esta en el hangar
+05-05-2024 17:59:39 INFO  Main:237: Avion NL-0005 esta en el area de estacionamiento
+05-05-2024 17:59:39 INFO  Main:166: Bus B-0065 deja 3 en el aeropuerto
+05-05-2024 17:59:39 INFO  Main:15: Bus B-0188 es creado
+05-05-2024 17:59:40 INFO  Main:15: Bus B-0189 es creado
+05-05-2024 17:59:40 INFO  Main:357: Avion TV-0011 esta en el area de rodaje
+05-05-2024 17:59:41 INFO  Main:15: Bus B-0190 es creado
+05-05-2024 17:59:42 INFO  Main:15: Bus B-0191 es creado
+05-05-2024 17:59:42 INFO  Main:25: Avión PW-0070 es creado
+05-05-2024 17:59:42 INFO  Main:220: Avion PW-0070 esta en el hangar
+05-05-2024 17:59:42 INFO  Main:237: Avion PW-0070 esta en el area de estacionamiento
+05-05-2024 17:59:42 INFO  Main:15: Bus B-0192 es creado
+05-05-2024 17:59:42 INFO  Main:237: Avion PD-0012 esta en el area de estacionamiento
+05-05-2024 17:59:42 INFO  Main:50: Avion FR-0037 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:59:43 INFO  Main:15: Bus B-0193 es creado
+05-05-2024 17:59:43 INFO  Main:79: Avion TV-0011 accede a puerta de Embarque 0 para desembarcar 93 pasajeros
+05-05-2024 17:59:44 INFO  Main:15: Bus B-0194 es creado
+05-05-2024 17:59:44 INFO  Main:15: Bus B-0195 es creado
+05-05-2024 17:59:44 INFO  Main:166: Bus B-0067 deja 7 en el aeropuerto
+05-05-2024 17:59:44 INFO  Main:430: Avion FW-0013 (27 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 17:59:44 INFO  Main:357: Avion OS-0015 esta en el area de rodaje
+05-05-2024 17:59:44 INFO  Main:50: Avion CE-0039 accede a puerta de Embarque 1 para embarcar pasajeros
+05-05-2024 17:59:45 INFO  Main:15: Bus B-0196 es creado
+05-05-2024 17:59:45 INFO  Main:25: Avión DV-0071 es creado
+05-05-2024 17:59:45 INFO  Main:220: Avion DV-0071 esta en el hangar
+05-05-2024 17:59:45 INFO  Main:237: Avion DV-0071 esta en el area de estacionamiento
+05-05-2024 17:59:45 INFO  Main:166: Bus B-0078 deja 11 en el aeropuerto
+05-05-2024 17:59:46 INFO  Main:15: Bus B-0197 es creado
+05-05-2024 17:59:46 INFO  Main:15: Bus B-0198 es creado
+05-05-2024 17:59:46 INFO  Main:457: Avion PD-0012 esta en el taller
+05-05-2024 17:59:47 INFO  Main:25: Avión FN-0072 es creado
+05-05-2024 17:59:47 INFO  Main:220: Avion FN-0072 esta en el hangar
+05-05-2024 17:59:47 INFO  Main:237: Avion FN-0072 esta en el area de estacionamiento
+05-05-2024 17:59:47 INFO  Main:15: Bus B-0199 es creado
+05-05-2024 17:59:48 INFO  Main:15: Bus B-0200 es creado
+05-05-2024 17:59:48 INFO  Main:25: Avión EQ-0073 es creado
+05-05-2024 17:59:48 INFO  Main:220: Avion EQ-0073 esta en el hangar
+05-05-2024 17:59:48 INFO  Main:237: Avion EQ-0073 esta en el area de estacionamiento
+05-05-2024 17:59:48 INFO  Main:15: Bus B-0201 es creado
+05-05-2024 17:59:48 INFO  Main:166: Bus B-0069 deja 2 en el aeropuerto
+05-05-2024 17:59:48 INFO  Main:404: Avion OS-0015 (65 pasajeros) accede a pista 0 para despegue
+05-05-2024 17:59:49 INFO  Main:25: Avión LK-0074 es creado
+05-05-2024 17:59:49 INFO  Main:220: Avion LK-0074 esta en el hangar
+05-05-2024 17:59:49 INFO  Main:237: Avion LK-0074 esta en el area de estacionamiento
+05-05-2024 17:59:49 INFO  Main:15: Bus B-0202 es creado
+05-05-2024 17:59:50 INFO  Main:15: Bus B-0203 es creado
+05-05-2024 17:59:50 INFO  Main:15: Bus B-0204 es creado
+05-05-2024 17:59:51 INFO  Main:25: Avión EI-0075 es creado
+05-05-2024 17:59:51 INFO  Main:220: Avion EI-0075 esta en el hangar
+05-05-2024 17:59:51 INFO  Main:237: Avion EI-0075 esta en el area de estacionamiento
+05-05-2024 17:59:51 INFO  Main:15: Bus B-0205 es creado
+05-05-2024 17:59:51 INFO  Main:407: Avion ZX-0016 (100 pasajeros) accede a pista 1 para atterizaje
+05-05-2024 17:59:51 INFO  Main:237: Avion UG-0014 esta en el area de estacionamiento
+05-05-2024 17:59:51 INFO  Main:50: Avion OT-0041 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 17:59:51 INFO  Main:166: Bus B-0071 deja 45 en el aeropuerto
+05-05-2024 17:59:51 INFO  Main:357: Avion RU-0017 esta en el area de rodaje
+05-05-2024 17:59:51 INFO  Main:50: Avion LV-0043 accede a puerta de Embarque 3 para embarcar pasajeros
+05-05-2024 17:59:52 INFO  Main:15: Bus B-0206 es creado
+05-05-2024 17:59:52 INFO  Main:15: Bus B-0207 es creado
+05-05-2024 17:59:52 INFO  Main:220: Avion PD-0012 esta en el hangar
+05-05-2024 17:59:52 INFO  Main:166: Bus B-0080 deja 43 en el aeropuerto
+05-05-2024 17:59:52 INFO  Main:404: Avion RU-0017 (57 pasajeros) accede a pista 2 para despegue
+05-05-2024 17:59:53 INFO  Main:25: Avión DO-0076 es creado
+05-05-2024 17:59:53 INFO  Main:220: Avion DO-0076 esta en el hangar
+05-05-2024 17:59:53 INFO  Main:237: Avion DO-0076 esta en el area de estacionamiento
+05-05-2024 17:59:53 INFO  Main:15: Bus B-0208 es creado
+05-05-2024 17:59:54 INFO  Main:15: Bus B-0209 es creado
+05-05-2024 17:59:54 INFO  Main:15: Bus B-0210 es creado
+05-05-2024 17:59:54 INFO  Main:166: Bus B-0075 deja 49 en el aeropuerto
+05-05-2024 17:59:55 INFO  Main:15: Bus B-0211 es creado
+05-05-2024 17:59:55 INFO  Main:166: Bus B-0073 deja 49 en el aeropuerto
+05-05-2024 17:59:56 INFO  Main:15: Bus B-0212 es creado
+05-05-2024 17:59:56 INFO  Main:25: Avión JE-0077 es creado
+05-05-2024 17:59:56 INFO  Main:220: Avion JE-0077 esta en el hangar
+05-05-2024 17:59:56 INFO  Main:237: Avion JE-0077 esta en el area de estacionamiento
+05-05-2024 17:59:56 INFO  Main:15: Bus B-0213 es creado
+05-05-2024 17:59:56 INFO  Main:457: Avion UG-0014 esta en el taller
+05-05-2024 17:59:56 INFO  Main:357: Avion ZX-0016 esta en el area de rodaje
+05-05-2024 17:59:56 INFO  Main:430: Avion OS-0015 (65 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 17:59:56 INFO  Main:166: Bus B-0082 deja 6 en el aeropuerto
+05-05-2024 17:59:57 INFO  Main:15: Bus B-0214 es creado
+05-05-2024 17:59:57 INFO  Main:15: Bus B-0215 es creado
+05-05-2024 17:59:57 INFO  Main:430: Avion RU-0017 (57 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 17:59:58 INFO  Main:15: Bus B-0216 es creado
+05-05-2024 17:59:58 INFO  Main:166: Bus B-0084 deja 12 en el aeropuerto
+05-05-2024 17:59:58 INFO  Main:15: Bus B-0217 es creado
+05-05-2024 17:59:59 INFO  Main:25: Avión CU-0078 es creado
+05-05-2024 17:59:59 INFO  Main:220: Avion CU-0078 esta en el hangar
+05-05-2024 17:59:59 INFO  Main:237: Avion CU-0078 esta en el area de estacionamiento
+05-05-2024 17:59:59 INFO  Main:15: Bus B-0218 es creado
+05-05-2024 17:59:59 INFO  Main:220: Avion UG-0014 esta en el hangar
+05-05-2024 18:00:00 INFO  Main:15: Bus B-0219 es creado
+05-05-2024 18:00:00 INFO  Main:79: Avion ZX-0016 accede a puerta de Embarque 0 para desembarcar 100 pasajeros
+05-05-2024 18:00:01 INFO  Main:15: Bus B-0220 es creado
+05-05-2024 18:00:01 INFO  Main:15: Bus B-0221 es creado
+05-05-2024 18:00:02 INFO  Main:25: Avión EJ-0079 es creado
+05-05-2024 18:00:02 INFO  Main:220: Avion EJ-0079 esta en el hangar
+05-05-2024 18:00:02 INFO  Main:237: Avion EJ-0079 esta en el area de estacionamiento
+05-05-2024 18:00:02 INFO  Main:15: Bus B-0222 es creado
+05-05-2024 18:00:02 INFO  Main:166: Bus B-0077 deja 49 en el aeropuerto
+05-05-2024 18:00:03 INFO  Main:25: Avión GG-0080 es creado
+05-05-2024 18:00:03 INFO  Main:220: Avion GG-0080 esta en el hangar
+05-05-2024 18:00:03 INFO  Main:237: Avion GG-0080 esta en el area de estacionamiento
+05-05-2024 18:00:03 INFO  Main:15: Bus B-0223 es creado
+05-05-2024 18:00:03 INFO  Main:166: Bus B-0086 deja 8 en el aeropuerto
+05-05-2024 18:00:04 INFO  Main:15: Bus B-0224 es creado
+05-05-2024 18:00:04 INFO  Main:25: Avión GH-0081 es creado
+05-05-2024 18:00:04 INFO  Main:220: Avion GH-0081 esta en el hangar
+05-05-2024 18:00:04 INFO  Main:237: Avion GH-0081 esta en el area de estacionamiento
+05-05-2024 18:00:04 INFO  Main:166: Bus B-0079 deja 18 en el aeropuerto
+05-05-2024 18:00:04 INFO  Main:357: Avion VK-0019 esta en el area de rodaje
+05-05-2024 18:00:04 INFO  Main:50: Avion DT-0045 accede a puerta de Embarque 2 para embarcar pasajeros
+05-05-2024 18:00:05 INFO  Main:15: Bus B-0225 es creado
+05-05-2024 18:00:05 INFO  Main:25: Avión RK-0082 es creado
+05-05-2024 18:00:05 INFO  Main:220: Avion RK-0082 esta en el hangar
+05-05-2024 18:00:05 INFO  Main:237: Avion RK-0082 esta en el area de estacionamiento
+05-05-2024 18:00:05 INFO  Main:15: Bus B-0226 es creado
+05-05-2024 18:00:06 INFO  Main:15: Bus B-0227 es creado
+05-05-2024 18:00:06 INFO  Main:220: Avion NM-0010 esta en el hangar
+05-05-2024 18:00:06 INFO  Main:237: Avion NM-0010 esta en el area de estacionamiento
+05-05-2024 18:00:06 INFO  Main:407: Avion FW-0013 (27 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 18:00:07 INFO  Main:15: Bus B-0228 es creado
+05-05-2024 18:00:07 INFO  Main:25: Avión KL-0083 es creado
+05-05-2024 18:00:07 INFO  Main:220: Avion KL-0083 esta en el hangar
+05-05-2024 18:00:07 INFO  Main:237: Avion KL-0083 esta en el area de estacionamiento
+05-05-2024 18:00:08 INFO  Main:166: Bus B-0088 deja 12 en el aeropuerto
+05-05-2024 18:00:08 INFO  Main:15: Bus B-0229 es creado
+05-05-2024 18:00:08 INFO  Main:15: Bus B-0230 es creado
+05-05-2024 18:00:09 INFO  Main:15: Bus B-0231 es creado
+05-05-2024 18:00:09 INFO  Main:404: Avion VK-0019 (46 pasajeros) accede a pista 0 para despegue
+05-05-2024 18:00:09 INFO  Main:166: Bus B-0081 deja 44 en el aeropuerto
+05-05-2024 18:00:09 INFO  Main:357: Avion IP-0021 esta en el area de rodaje
+05-05-2024 18:00:09 INFO  Main:50: Avion TE-0047 accede a puerta de Embarque 4 para embarcar pasajeros
+05-05-2024 18:00:10 INFO  Main:15: Bus B-0232 es creado
+05-05-2024 18:00:10 INFO  Main:25: Avión HB-0084 es creado
+05-05-2024 18:00:10 INFO  Main:220: Avion HB-0084 esta en el hangar
+05-05-2024 18:00:10 INFO  Main:237: Avion HB-0084 esta en el area de estacionamiento
+05-05-2024 18:00:10 INFO  Main:357: Avion FW-0013 esta en el area de rodaje
+05-05-2024 18:00:10 INFO  Main:15: Bus B-0233 es creado
+05-05-2024 18:00:10 INFO  Main:166: Bus B-0083 deja 27 en el aeropuerto
+05-05-2024 18:00:11 INFO  Main:166: Bus B-0090 deja 21 en el aeropuerto
+05-05-2024 18:00:11 INFO  Main:25: Avión ZQ-0085 es creado
+05-05-2024 18:00:11 INFO  Main:220: Avion ZQ-0085 esta en el hangar
+05-05-2024 18:00:11 INFO  Main:237: Avion ZQ-0085 esta en el area de estacionamiento
+05-05-2024 18:00:11 INFO  Main:15: Bus B-0234 es creado
+05-05-2024 18:00:12 INFO  Main:15: Bus B-0235 es creado
+05-05-2024 18:00:12 INFO  Main:166: Bus B-0085 deja 47 en el aeropuerto
+05-05-2024 18:00:13 INFO  Main:15: Bus B-0236 es creado
+05-05-2024 18:00:13 INFO  Main:15: Bus B-0237 es creado
+05-05-2024 18:00:13 INFO  Main:79: Avion FW-0013 accede a puerta de Embarque 0 para desembarcar 27 pasajeros
+05-05-2024 18:00:13 INFO  Main:404: Avion IP-0021 (105 pasajeros) accede a pista 1 para despegue
+05-05-2024 18:00:14 INFO  Main:25: Avión IM-0086 es creado
+05-05-2024 18:00:14 INFO  Main:220: Avion IM-0086 esta en el hangar
+05-05-2024 18:00:14 INFO  Main:237: Avion IM-0086 esta en el area de estacionamiento
+05-05-2024 18:00:14 INFO  Main:15: Bus B-0238 es creado
+05-05-2024 18:00:14 INFO  Main:430: Avion VK-0019 (46 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 18:00:15 INFO  Main:166: Bus B-0092 deja 41 en el aeropuerto
+05-05-2024 18:00:15 INFO  Main:15: Bus B-0239 es creado
+05-05-2024 18:00:15 INFO  Main:15: Bus B-0240 es creado
+05-05-2024 18:00:15 INFO  Main:220: Avion PD-0012 esta en el hangar
+05-05-2024 18:00:15 INFO  Main:237: Avion PD-0012 esta en el area de estacionamiento
+05-05-2024 18:00:15 INFO  Main:407: Avion RU-0017 (57 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 18:00:16 INFO  Main:15: Bus B-0241 es creado
+05-05-2024 18:00:16 INFO  Main:237: Avion ZX-0016 esta en el area de estacionamiento
+05-05-2024 18:00:16 INFO  Main:50: Avion WA-0049 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 18:00:17 INFO  Main:15: Bus B-0242 es creado
+05-05-2024 18:00:17 INFO  Main:25: Avión CJ-0087 es creado
+05-05-2024 18:00:17 INFO  Main:220: Avion CJ-0087 esta en el hangar
+05-05-2024 18:00:17 INFO  Main:237: Avion CJ-0087 esta en el area de estacionamiento
+05-05-2024 18:00:17 INFO  Main:15: Bus B-0243 es creado
+05-05-2024 18:00:17 INFO  Main:407: Avion OS-0015 (65 pasajeros) accede a pista 1 para atterizaje
+05-05-2024 18:00:18 INFO  Main:166: Bus B-0094 deja 24 en el aeropuerto
+05-05-2024 18:00:18 INFO  Main:15: Bus B-0244 es creado
+05-05-2024 18:00:18 INFO  Main:25: Avión MV-0088 es creado
+05-05-2024 18:00:18 INFO  Main:220: Avion MV-0088 esta en el hangar
+05-05-2024 18:00:18 INFO  Main:237: Avion MV-0088 esta en el area de estacionamiento
+05-05-2024 18:00:18 INFO  Main:166: Bus B-0087 deja 29 en el aeropuerto
+05-05-2024 18:00:18 INFO  Main:430: Avion IP-0021 (105 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 18:00:19 INFO  Main:15: Bus B-0245 es creado
+05-05-2024 18:00:19 INFO  Main:166: Bus B-0096 deja 50 en el aeropuerto
+05-05-2024 18:00:19 INFO  Main:25: Avión XZ-0089 es creado
+05-05-2024 18:00:19 INFO  Main:220: Avion XZ-0089 esta en el hangar
+05-05-2024 18:00:19 INFO  Main:237: Avion XZ-0089 esta en el area de estacionamiento
+05-05-2024 18:00:19 INFO  Main:15: Bus B-0246 es creado
+05-05-2024 18:00:19 INFO  Main:357: Avion RU-0017 esta en el area de rodaje
+05-05-2024 18:00:20 INFO  Main:15: Bus B-0247 es creado
+05-05-2024 18:00:21 INFO  Main:15: Bus B-0248 es creado
+05-05-2024 18:00:21 INFO  Main:220: Avion UG-0014 esta en el hangar
+05-05-2024 18:00:21 INFO  Main:237: Avion UG-0014 esta en el area de estacionamiento
+05-05-2024 18:00:21 INFO  Main:357: Avion OS-0015 esta en el area de rodaje
+05-05-2024 18:00:22 INFO  Main:15: Bus B-0249 es creado
+05-05-2024 18:00:22 INFO  Main:25: Avión MS-0090 es creado
+05-05-2024 18:00:22 INFO  Main:220: Avion MS-0090 esta en el hangar
+05-05-2024 18:00:22 INFO  Main:237: Avion MS-0090 esta en el area de estacionamiento
+05-05-2024 18:00:22 INFO  Main:15: Bus B-0250 es creado
+05-05-2024 18:00:22 INFO  Main:457: Avion ZX-0016 esta en el taller
+05-05-2024 18:00:23 INFO  Main:79: Avion RU-0017 accede a puerta de Embarque 0 para desembarcar 57 pasajeros
+05-05-2024 18:00:23 INFO  Main:15: Bus B-0251 es creado
+05-05-2024 18:00:23 INFO  Main:15: Bus B-0252 es creado
+05-05-2024 18:00:23 INFO  Main:166: Bus B-0089 deja 23 en el aeropuerto
+05-05-2024 18:00:24 INFO  Main:25: Avión PN-0091 es creado
+05-05-2024 18:00:24 INFO  Main:220: Avion PN-0091 esta en el hangar
+05-05-2024 18:00:24 INFO  Main:237: Avion PN-0091 esta en el area de estacionamiento
+05-05-2024 18:00:24 INFO  Main:15: Bus B-0253 es creado
+05-05-2024 18:00:25 INFO  Main:15: Bus B-0254 es creado
+05-05-2024 18:00:25 INFO  Main:25: Avión BX-0092 es creado
+05-05-2024 18:00:25 INFO  Main:220: Avion BX-0092 esta en el hangar
+05-05-2024 18:00:25 INFO  Main:237: Avion BX-0092 esta en el area de estacionamiento
+05-05-2024 18:00:25 INFO  Main:15: Bus B-0255 es creado
+05-05-2024 18:00:26 INFO  Main:166: Bus B-0098 deja 33 en el aeropuerto
+05-05-2024 18:00:26 INFO  Main:15: Bus B-0256 es creado
+05-05-2024 18:00:26 INFO  Main:220: Avion ZX-0016 esta en el hangar
+05-05-2024 18:00:26 INFO  Main:79: Avion OS-0015 accede a puerta de Embarque 0 para desembarcar 65 pasajeros
+05-05-2024 18:00:27 INFO  Main:15: Bus B-0257 es creado
+05-05-2024 18:00:27 INFO  Main:15: Bus B-0258 es creado
+05-05-2024 18:00:27 INFO  Main:166: Bus B-0091 deja 33 en el aeropuerto
+05-05-2024 18:00:27 INFO  Main:166: Bus B-0093 deja 41 en el aeropuerto
+05-05-2024 18:00:27 INFO  Main:357: Avion DY-0023 esta en el area de rodaje
+05-05-2024 18:00:27 INFO  Main:50: Avion TZ-0051 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 18:00:28 INFO  Main:166: Bus B-0100 deja 25 en el aeropuerto
+05-05-2024 18:00:28 INFO  Main:25: Avión TW-0093 es creado
+05-05-2024 18:00:28 INFO  Main:220: Avion TW-0093 esta en el hangar
+05-05-2024 18:00:28 INFO  Main:237: Avion TW-0093 esta en el area de estacionamiento
+05-05-2024 18:00:28 INFO  Main:15: Bus B-0259 es creado
+05-05-2024 18:00:29 INFO  Main:166: Bus B-0102 deja 27 en el aeropuerto
+05-05-2024 18:00:29 INFO  Main:15: Bus B-0260 es creado
+05-05-2024 18:00:30 INFO  Main:15: Bus B-0261 es creado
+05-05-2024 18:00:30 INFO  Main:25: Avión XK-0094 es creado
+05-05-2024 18:00:30 INFO  Main:220: Avion XK-0094 esta en el hangar
+05-05-2024 18:00:30 INFO  Main:237: Avion XK-0094 esta en el area de estacionamiento
+05-05-2024 18:00:31 INFO  Main:15: Bus B-0262 es creado
+05-05-2024 18:00:32 INFO  Main:404: Avion DY-0023 (47 pasajeros) accede a pista 0 para despegue
+05-05-2024 18:00:32 INFO  Main:15: Bus B-0263 es creado
+05-05-2024 18:00:32 INFO  Main:15: Bus B-0264 es creado
+05-05-2024 18:00:33 INFO  Main:166: Bus B-0095 deja 32 en el aeropuerto
+05-05-2024 18:00:33 INFO  Main:25: Avión PB-0095 es creado
+05-05-2024 18:00:33 INFO  Main:220: Avion PB-0095 esta en el hangar
+05-05-2024 18:00:33 INFO  Main:237: Avion PB-0095 esta en el area de estacionamiento
+05-05-2024 18:00:33 INFO  Main:15: Bus B-0265 es creado
+05-05-2024 18:00:34 INFO  Main:15: Bus B-0266 es creado
+05-05-2024 18:00:34 INFO  Main:15: Bus B-0267 es creado
+05-05-2024 18:00:35 INFO  Main:25: Avión LU-0096 es creado
+05-05-2024 18:00:35 INFO  Main:220: Avion LU-0096 esta en el hangar
+05-05-2024 18:00:35 INFO  Main:237: Avion LU-0096 esta en el area de estacionamiento
+05-05-2024 18:00:35 INFO  Main:15: Bus B-0268 es creado
+05-05-2024 18:00:36 INFO  Main:166: Bus B-0104 deja 46 en el aeropuerto
+05-05-2024 18:00:36 INFO  Main:15: Bus B-0269 es creado
+05-05-2024 18:00:36 INFO  Main:25: Avión HO-0097 es creado
+05-05-2024 18:00:36 INFO  Main:220: Avion HO-0097 esta en el hangar
+05-05-2024 18:00:36 INFO  Main:237: Avion HO-0097 esta en el area de estacionamiento
+05-05-2024 18:00:37 INFO  Main:15: Bus B-0270 es creado
+05-05-2024 18:00:37 INFO  Main:25: Avión YQ-0098 es creado
+05-05-2024 18:00:37 INFO  Main:220: Avion YQ-0098 esta en el hangar
+05-05-2024 18:00:37 INFO  Main:237: Avion YQ-0098 esta en el area de estacionamiento
+05-05-2024 18:00:37 INFO  Main:15: Bus B-0271 es creado
+05-05-2024 18:00:37 INFO  Main:407: Avion VK-0019 (46 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 18:00:38 INFO  Main:15: Bus B-0272 es creado
+05-05-2024 18:00:39 INFO  Main:430: Avion DY-0023 (47 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 18:00:39 INFO  Main:15: Bus B-0273 es creado
+05-05-2024 18:00:39 INFO  Main:15: Bus B-0274 es creado
+05-05-2024 18:00:40 INFO  Main:166: Bus B-0097 deja 21 en el aeropuerto
+05-05-2024 18:00:40 INFO  Main:357: Avion ME-0025 esta en el area de rodaje
+05-05-2024 18:00:40 INFO  Main:50: Avion NR-0053 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 18:00:40 INFO  Main:166: Bus B-0099 deja 46 en el aeropuerto
+05-05-2024 18:00:40 INFO  Main:166: Bus B-0106 deja 29 en el aeropuerto
+05-05-2024 18:00:40 INFO  Main:25: Avión RE-0099 es creado
+05-05-2024 18:00:40 INFO  Main:220: Avion RE-0099 esta en el hangar
+05-05-2024 18:00:40 INFO  Main:237: Avion RE-0099 esta en el area de estacionamiento
+05-05-2024 18:00:40 INFO  Main:15: Bus B-0275 es creado
+05-05-2024 18:00:40 INFO  Main:357: Avion VK-0019 esta en el area de rodaje
+05-05-2024 18:00:41 INFO  Main:15: Bus B-0276 es creado
+05-05-2024 18:00:41 INFO  Main:25: Avión WN-0100 es creado
+05-05-2024 18:00:41 INFO  Main:220: Avion WN-0100 esta en el hangar
+05-05-2024 18:00:41 INFO  Main:237: Avion WN-0100 esta en el area de estacionamiento
+05-05-2024 18:00:41 INFO  Main:15: Bus B-0277 es creado
+05-05-2024 18:00:42 INFO  Main:404: Avion ME-0025 (72 pasajeros) accede a pista 0 para despegue
+05-05-2024 18:00:42 INFO  Main:15: Bus B-0278 es creado
+05-05-2024 18:00:43 INFO  Main:166: Bus B-0108 deja 37 en el aeropuerto
+05-05-2024 18:00:43 INFO  Main:15: Bus B-0279 es creado
+05-05-2024 18:00:43 INFO  Main:407: Avion IP-0021 (105 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 18:00:44 INFO  Main:166: Bus B-0110 deja 11 en el aeropuerto
+05-05-2024 18:00:44 INFO  Main:15: Bus B-0280 es creado
+05-05-2024 18:00:44 INFO  Main:25: Avión YP-0101 es creado
+05-05-2024 18:00:44 INFO  Main:220: Avion YP-0101 esta en el hangar
+05-05-2024 18:00:44 INFO  Main:237: Avion YP-0101 esta en el area de estacionamiento
+05-05-2024 18:00:44 INFO  Main:15: Bus B-0281 es creado
+05-05-2024 18:00:44 INFO  Main:79: Avion VK-0019 accede a puerta de Embarque 0 para desembarcar 46 pasajeros
+05-05-2024 18:00:45 INFO  Main:166: Bus B-0101 deja 34 en el aeropuerto
+05-05-2024 18:00:45 INFO  Main:166: Bus B-0103 deja 11 en el aeropuerto
+05-05-2024 18:00:45 INFO  Main:15: Bus B-0282 es creado
+05-05-2024 18:00:46 INFO  Main:15: Bus B-0283 es creado
+05-05-2024 18:00:47 INFO  Main:15: Bus B-0284 es creado
+05-05-2024 18:00:47 INFO  Main:25: Avión CL-0102 es creado
+05-05-2024 18:00:47 INFO  Main:220: Avion CL-0102 esta en el hangar
+05-05-2024 18:00:47 INFO  Main:237: Avion CL-0102 esta en el area de estacionamiento
+05-05-2024 18:00:47 INFO  Main:15: Bus B-0285 es creado
+05-05-2024 18:00:47 INFO  Main:357: Avion IP-0021 esta en el area de rodaje
+05-05-2024 18:00:48 INFO  Main:430: Avion ME-0025 (72 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 18:00:48 INFO  Main:166: Bus B-0112 deja 47 en el aeropuerto
+05-05-2024 18:00:48 INFO  Main:15: Bus B-0286 es creado
+05-05-2024 18:00:49 INFO  Main:166: Bus B-0105 deja 33 en el aeropuerto
+05-05-2024 18:00:49 INFO  Main:15: Bus B-0287 es creado
+05-05-2024 18:00:50 INFO  Main:15: Bus B-0288 es creado
+05-05-2024 18:00:50 INFO  Main:25: Avión JU-0103 es creado
+05-05-2024 18:00:50 INFO  Main:220: Avion JU-0103 esta en el hangar
+05-05-2024 18:00:50 INFO  Main:237: Avion JU-0103 esta en el area de estacionamiento
+05-05-2024 18:00:50 INFO  Main:220: Avion ZX-0016 esta en el hangar
+05-05-2024 18:00:50 INFO  Main:237: Avion ZX-0016 esta en el area de estacionamiento
+05-05-2024 18:00:51 INFO  Main:79: Avion IP-0021 accede a puerta de Embarque 0 para desembarcar 105 pasajeros
+05-05-2024 18:00:51 INFO  Main:166: Bus B-0116 deja 16 en el aeropuerto
+05-05-2024 18:00:51 INFO  Main:15: Bus B-0289 es creado
+05-05-2024 18:00:51 INFO  Main:15: Bus B-0290 es creado
+05-05-2024 18:00:52 INFO  Main:166: Bus B-0107 deja 12 en el aeropuerto
+05-05-2024 18:00:52 INFO  Main:357: Avion SZ-0029 esta en el area de rodaje
+05-05-2024 18:00:52 INFO  Main:50: Avion AM-0055 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 18:00:52 INFO  Main:25: Avión DZ-0104 es creado
+05-05-2024 18:00:52 INFO  Main:220: Avion DZ-0104 esta en el hangar
+05-05-2024 18:00:52 INFO  Main:237: Avion DZ-0104 esta en el area de estacionamiento
+05-05-2024 18:00:52 INFO  Main:15: Bus B-0291 es creado
+05-05-2024 18:00:53 INFO  Main:404: Avion SZ-0029 (42 pasajeros) accede a pista 0 para despegue
+05-05-2024 18:00:53 INFO  Main:166: Bus B-0114 deja 24 en el aeropuerto
+05-05-2024 18:00:53 INFO  Main:15: Bus B-0292 es creado
+05-05-2024 18:00:53 INFO  Main:15: Bus B-0293 es creado
+05-05-2024 18:00:54 INFO  Main:15: Bus B-0294 es creado
+05-05-2024 18:00:55 INFO  Main:15: Bus B-0295 es creado
+05-05-2024 18:00:55 INFO  Main:25: Avión TS-0105 es creado
+05-05-2024 18:00:55 INFO  Main:220: Avion TS-0105 esta en el hangar
+05-05-2024 18:00:55 INFO  Main:237: Avion TS-0105 esta en el area de estacionamiento
+05-05-2024 18:00:56 INFO  Main:15: Bus B-0296 es creado
+05-05-2024 18:00:56 INFO  Main:15: Bus B-0297 es creado
+05-05-2024 18:00:57 INFO  Main:15: Bus B-0298 es creado
+05-05-2024 18:00:58 INFO  Main:166: Bus B-0109 deja 15 en el aeropuerto
+05-05-2024 18:00:58 INFO  Main:15: Bus B-0299 es creado
+05-05-2024 18:00:58 INFO  Main:25: Avión IM-0106 es creado
+05-05-2024 18:00:58 INFO  Main:220: Avion IM-0106 esta en el hangar
+05-05-2024 18:00:58 INFO  Main:237: Avion IM-0106 esta en el area de estacionamiento
+05-05-2024 18:00:59 INFO  Main:15: Bus B-0300 es creado
+05-05-2024 18:00:59 INFO  Main:407: Avion DY-0023 (47 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 18:00:59 INFO  Main:15: Bus B-0301 es creado
+05-05-2024 18:00:59 INFO  Main:25: Avión SN-0107 es creado
+05-05-2024 18:00:59 INFO  Main:220: Avion SN-0107 esta en el hangar
+05-05-2024 18:00:59 INFO  Main:237: Avion SN-0107 esta en el area de estacionamiento
+05-05-2024 18:01:00 INFO  Main:430: Avion SZ-0029 (42 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 18:01:00 INFO  Main:15: Bus B-0302 es creado
+05-05-2024 18:01:00 INFO  Main:15: Bus B-0303 es creado
+05-05-2024 18:01:01 INFO  Main:166: Bus B-0113 deja 19 en el aeropuerto
+05-05-2024 18:01:01 INFO  Main:166: Bus B-0118 deja 16 en el aeropuerto
+05-05-2024 18:01:01 INFO  Main:15: Bus B-0304 es creado
+05-05-2024 18:01:01 INFO  Main:25: Avión KV-0108 es creado
+05-05-2024 18:01:01 INFO  Main:220: Avion KV-0108 esta en el hangar
+05-05-2024 18:01:01 INFO  Main:237: Avion KV-0108 esta en el area de estacionamiento
+05-05-2024 18:01:02 INFO  Main:15: Bus B-0305 es creado
+05-05-2024 18:01:02 INFO  Main:15: Bus B-0306 es creado
+05-05-2024 18:01:03 INFO  Main:166: Bus B-0111 deja 31 en el aeropuerto
+05-05-2024 18:01:03 INFO  Main:357: Avion ZG-0027 esta en el area de rodaje
+05-05-2024 18:01:03 INFO  Main:50: Avion FB-0057 accede a puerta de Embarque 5 para embarcar pasajeros
+05-05-2024 18:01:03 INFO  Main:15: Bus B-0307 es creado
+05-05-2024 18:01:03 INFO  Main:25: Avión PE-0109 es creado
+05-05-2024 18:01:03 INFO  Main:220: Avion PE-0109 esta en el hangar
+05-05-2024 18:01:03 INFO  Main:237: Avion PE-0109 esta en el area de estacionamiento
+05-05-2024 18:01:04 INFO  Main:357: Avion DY-0023 esta en el area de rodaje
+05-05-2024 18:01:04 INFO  Main:166: Bus B-0120 deja 8 en el aeropuerto
+05-05-2024 18:01:04 INFO  Main:15: Bus B-0308 es creado
+05-05-2024 18:01:04 INFO  Main:15: Bus B-0309 es creado
+05-05-2024 18:01:05 INFO  Main:15: Bus B-0310 es creado
+05-05-2024 18:01:06 INFO  Main:166: Bus B-0115 deja 12 en el aeropuerto
+05-05-2024 18:01:06 INFO  Main:166: Bus B-0122 deja 15 en el aeropuerto
+05-05-2024 18:01:06 INFO  Main:15: Bus B-0311 es creado
+05-05-2024 18:01:06 INFO  Main:25: Avión VV-0110 es creado
+05-05-2024 18:01:06 INFO  Main:220: Avion VV-0110 esta en el hangar
+05-05-2024 18:01:06 INFO  Main:237: Avion VV-0110 esta en el area de estacionamiento
+05-05-2024 18:01:06 INFO  Main:15: Bus B-0312 es creado
+05-05-2024 18:01:07 INFO  Main:404: Avion ZG-0027 (115 pasajeros) accede a pista 0 para despegue
+05-05-2024 18:01:07 INFO  Main:15: Bus B-0313 es creado
+05-05-2024 18:01:08 INFO  Main:15: Bus B-0314 es creado
+05-05-2024 18:01:09 INFO  Main:79: Avion DY-0023 accede a puerta de Embarque 0 para desembarcar 47 pasajeros
+05-05-2024 18:01:09 INFO  Main:166: Bus B-0117 deja 24 en el aeropuerto
+05-05-2024 18:01:09 INFO  Main:166: Bus B-0124 deja 13 en el aeropuerto
+05-05-2024 18:01:09 INFO  Main:166: Bus B-0126 deja 5 en el aeropuerto
+05-05-2024 18:01:09 INFO  Main:15: Bus B-0315 es creado
+05-05-2024 18:01:09 INFO  Main:25: Avión NB-0111 es creado
+05-05-2024 18:01:09 INFO  Main:220: Avion NB-0111 esta en el hangar
+05-05-2024 18:01:09 INFO  Main:237: Avion NB-0111 esta en el area de estacionamiento
+05-05-2024 18:01:10 INFO  Main:407: Avion ME-0025 (72 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 18:01:10 INFO  Main:15: Bus B-0316 es creado
+05-05-2024 18:01:10 INFO  Main:166: Bus B-0119 deja 10 en el aeropuerto
+05-05-2024 18:01:10 INFO  Main:25: Avión RK-0112 es creado
+05-05-2024 18:01:10 INFO  Main:220: Avion RK-0112 esta en el hangar
+05-05-2024 18:01:10 INFO  Main:237: Avion RK-0112 esta en el area de estacionamiento
+05-05-2024 18:01:10 INFO  Main:15: Bus B-0317 es creado
+05-05-2024 18:01:11 INFO  Main:430: Avion ZG-0027 (115 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 18:01:11 INFO  Main:15: Bus B-0318 es creado
+05-05-2024 18:01:12 INFO  Main:15: Bus B-0319 es creado
+05-05-2024 18:01:12 INFO  Main:25: Avión XK-0113 es creado
+05-05-2024 18:01:12 INFO  Main:220: Avion XK-0113 esta en el hangar
+05-05-2024 18:01:12 INFO  Main:237: Avion XK-0113 esta en el area de estacionamiento
+05-05-2024 18:01:12 INFO  Main:15: Bus B-0320 es creado
+05-05-2024 18:01:13 INFO  Main:15: Bus B-0321 es creado
+05-05-2024 18:01:13 INFO  Main:15: Bus B-0322 es creado
+05-05-2024 18:01:14 INFO  Main:166: Bus B-0128 deja 27 en el aeropuerto
+05-05-2024 18:01:14 INFO  Main:15: Bus B-0323 es creado
+05-05-2024 18:01:14 INFO  Main:25: Avión AN-0114 es creado
+05-05-2024 18:01:14 INFO  Main:220: Avion AN-0114 esta en el hangar
+05-05-2024 18:01:14 INFO  Main:237: Avion AN-0114 esta en el area de estacionamiento
+05-05-2024 18:01:15 INFO  Main:357: Avion ME-0025 esta en el area de rodaje
+05-05-2024 18:01:15 INFO  Main:15: Bus B-0324 es creado
+05-05-2024 18:01:15 INFO  Main:25: Avión SR-0115 es creado
+05-05-2024 18:01:15 INFO  Main:220: Avion SR-0115 esta en el hangar
+05-05-2024 18:01:15 INFO  Main:237: Avion SR-0115 esta en el area de estacionamiento
+05-05-2024 18:01:15 INFO  Main:15: Bus B-0325 es creado
+05-05-2024 18:01:16 INFO  Main:15: Bus B-0326 es creado
+05-05-2024 18:01:16 INFO  Main:25: Avión FN-0116 es creado
+05-05-2024 18:01:16 INFO  Main:220: Avion FN-0116 esta en el hangar
+05-05-2024 18:01:16 INFO  Main:237: Avion FN-0116 esta en el area de estacionamiento
+05-05-2024 18:01:17 INFO  Main:166: Bus B-0121 deja 12 en el aeropuerto
+05-05-2024 18:01:17 INFO  Main:166: Bus B-0123 deja 33 en el aeropuerto
+05-05-2024 18:01:17 INFO  Main:15: Bus B-0327 es creado
+05-05-2024 18:01:18 INFO  Main:15: Bus B-0328 es creado
+05-05-2024 18:01:18 INFO  Main:15: Bus B-0329 es creado
+05-05-2024 18:01:19 INFO  Main:79: Avion ME-0025 accede a puerta de Embarque 0 para desembarcar 72 pasajeros
+05-05-2024 18:01:19 INFO  Main:15: Bus B-0330 es creado
+05-05-2024 18:01:19 INFO  Main:25: Avión KG-0117 es creado
+05-05-2024 18:01:19 INFO  Main:220: Avion KG-0117 esta en el hangar
+05-05-2024 18:01:19 INFO  Main:237: Avion KG-0117 esta en el area de estacionamiento
+05-05-2024 18:01:20 INFO  Main:166: Bus B-0130 deja 10 en el aeropuerto
+05-05-2024 18:01:20 INFO  Main:15: Bus B-0331 es creado
+05-05-2024 18:01:21 INFO  Main:15: Bus B-0332 es creado
+05-05-2024 18:01:21 INFO  Main:15: Bus B-0333 es creado
+05-05-2024 18:01:22 INFO  Main:15: Bus B-0334 es creado
+05-05-2024 18:01:22 INFO  Main:25: Avión ZN-0118 es creado
+05-05-2024 18:01:22 INFO  Main:220: Avion ZN-0118 esta en el hangar
+05-05-2024 18:01:22 INFO  Main:237: Avion ZN-0118 esta en el area de estacionamiento
+05-05-2024 18:01:23 INFO  Main:15: Bus B-0335 es creado
+05-05-2024 18:01:23 INFO  Main:25: Avión RE-0119 es creado
+05-05-2024 18:01:23 INFO  Main:220: Avion RE-0119 esta en el hangar
+05-05-2024 18:01:23 INFO  Main:237: Avion RE-0119 esta en el area de estacionamiento
+05-05-2024 18:01:23 INFO  Main:15: Bus B-0336 es creado
+05-05-2024 18:01:24 INFO  Main:166: Bus B-0127 deja 32 en el aeropuerto
+05-05-2024 18:01:24 INFO  Main:15: Bus B-0337 es creado
+05-05-2024 18:01:25 INFO  Main:166: Bus B-0125 deja 32 en el aeropuerto
+05-05-2024 18:01:25 INFO  Main:357: Avion YQ-0031 esta en el area de rodaje
+05-05-2024 18:01:25 INFO  Main:50: Avion GP-0059 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 18:01:25 INFO  Main:15: Bus B-0338 es creado
+05-05-2024 18:01:25 INFO  Main:15: Bus B-0339 es creado
+05-05-2024 18:01:26 INFO  Main:166: Bus B-0134 deja 34 en el aeropuerto
+05-05-2024 18:01:26 INFO  Main:25: Avión RG-0120 es creado
+05-05-2024 18:01:26 INFO  Main:220: Avion RG-0120 esta en el hangar
+05-05-2024 18:01:26 INFO  Main:237: Avion RG-0120 esta en el area de estacionamiento
+05-05-2024 18:01:26 INFO  Main:15: Bus B-0340 es creado
+05-05-2024 18:01:27 INFO  Main:166: Bus B-0132 deja 33 en el aeropuerto
+05-05-2024 18:01:27 INFO  Main:404: Avion YQ-0031 (127 pasajeros) accede a pista 0 para despegue
+05-05-2024 18:01:27 INFO  Main:15: Bus B-0341 es creado
+05-05-2024 18:01:28 INFO  Main:407: Avion ZG-0027 (115 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 18:01:28 INFO  Main:407: Avion SZ-0029 (42 pasajeros) accede a pista 1 para atterizaje
+05-05-2024 18:01:28 INFO  Main:15: Bus B-0342 es creado
+05-05-2024 18:01:28 INFO  Main:15: Bus B-0343 es creado
+05-05-2024 18:01:29 INFO  Main:15: Bus B-0344 es creado
+05-05-2024 18:01:29 INFO  Main:25: Avión OP-0121 es creado
+05-05-2024 18:01:29 INFO  Main:220: Avion OP-0121 esta en el hangar
+05-05-2024 18:01:29 INFO  Main:237: Avion OP-0121 esta en el area de estacionamiento
+05-05-2024 18:01:30 INFO  Main:166: Bus B-0136 deja 31 en el aeropuerto
+05-05-2024 18:01:30 INFO  Main:15: Bus B-0345 es creado
+05-05-2024 18:01:30 INFO  Main:166: Bus B-0129 deja 0 en el aeropuerto
+05-05-2024 18:01:30 INFO  Main:15: Bus B-0346 es creado
+05-05-2024 18:01:31 INFO  Main:357: Avion ZG-0027 esta en el area de rodaje
+05-05-2024 18:01:31 INFO  Main:357: Avion SZ-0029 esta en el area de rodaje
+05-05-2024 18:01:31 INFO  Main:430: Avion YQ-0031 (127 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 18:01:31 INFO  Main:15: Bus B-0347 es creado
+05-05-2024 18:01:31 INFO  Main:15: Bus B-0348 es creado
+05-05-2024 18:01:32 INFO  Main:25: Avión IQ-0122 es creado
+05-05-2024 18:01:32 INFO  Main:220: Avion IQ-0122 esta en el hangar
+05-05-2024 18:01:32 INFO  Main:237: Avion IQ-0122 esta en el area de estacionamiento
+05-05-2024 18:01:32 INFO  Main:15: Bus B-0349 es creado
+05-05-2024 18:01:33 INFO  Main:166: Bus B-0138 deja 14 en el aeropuerto
+05-05-2024 18:01:33 INFO  Main:166: Bus B-0131 deja 48 en el aeropuerto
+05-05-2024 18:01:33 INFO  Main:357: Avion OR-0033 esta en el area de rodaje
+05-05-2024 18:01:33 INFO  Main:50: Avion ZO-0004 accede a puerta de Embarque 0 para embarcar pasajeros
+05-05-2024 18:01:33 INFO  Main:15: Bus B-0350 es creado
+05-05-2024 18:01:33 INFO  Main:25: Avión YD-0123 es creado
+05-05-2024 18:01:33 INFO  Main:220: Avion YD-0123 esta en el hangar
+05-05-2024 18:01:33 INFO  Main:237: Avion YD-0123 esta en el area de estacionamiento
+05-05-2024 18:01:34 INFO  Main:15: Bus B-0351 es creado
+05-05-2024 18:01:34 INFO  Main:15: Bus B-0352 es creado
+05-05-2024 18:01:35 INFO  Main:79: Avion ZG-0027 accede a puerta de Embarque 0 para desembarcar 115 pasajeros
+05-05-2024 18:01:35 INFO  Main:15: Bus B-0353 es creado
+05-05-2024 18:01:36 INFO  Main:79: Avion SZ-0029 accede a puerta de Embarque 0 para desembarcar 42 pasajeros
+05-05-2024 18:01:36 INFO  Main:166: Bus B-0140 deja 23 en el aeropuerto
+05-05-2024 18:01:36 INFO  Main:15: Bus B-0354 es creado
+05-05-2024 18:01:36 INFO  Main:25: Avión EK-0124 es creado
+05-05-2024 18:01:36 INFO  Main:220: Avion EK-0124 esta en el hangar
+05-05-2024 18:01:36 INFO  Main:237: Avion EK-0124 esta en el area de estacionamiento
+05-05-2024 18:01:36 INFO  Main:15: Bus B-0355 es creado
+05-05-2024 18:01:37 INFO  Main:404: Avion OR-0033 (108 pasajeros) accede a pista 0 para despegue
+05-05-2024 18:01:37 INFO  Main:15: Bus B-0356 es creado
+05-05-2024 18:01:38 INFO  Main:166: Bus B-0133 deja 14 en el aeropuerto
+05-05-2024 18:01:38 INFO  Main:15: Bus B-0357 es creado
+05-05-2024 18:01:38 INFO  Main:25: Avión FV-0125 es creado
+05-05-2024 18:01:38 INFO  Main:220: Avion FV-0125 esta en el hangar
+05-05-2024 18:01:38 INFO  Main:237: Avion FV-0125 esta en el area de estacionamiento
+05-05-2024 18:01:39 INFO  Main:15: Bus B-0358 es creado
+05-05-2024 18:01:39 INFO  Main:15: Bus B-0359 es creado
+05-05-2024 18:01:40 INFO  Main:166: Bus B-0135 deja 31 en el aeropuerto
+05-05-2024 18:01:40 INFO  Main:15: Bus B-0360 es creado
+05-05-2024 18:01:40 INFO  Main:25: Avión TY-0126 es creado
+05-05-2024 18:01:40 INFO  Main:220: Avion TY-0126 esta en el hangar
+05-05-2024 18:01:40 INFO  Main:237: Avion TY-0126 esta en el area de estacionamiento
+05-05-2024 18:01:41 INFO  Main:15: Bus B-0361 es creado
+05-05-2024 18:01:42 INFO  Main:166: Bus B-0142 deja 45 en el aeropuerto
+05-05-2024 18:01:42 INFO  Main:15: Bus B-0362 es creado
+05-05-2024 18:01:42 INFO  Main:25: Avión UM-0127 es creado
+05-05-2024 18:01:42 INFO  Main:220: Avion UM-0127 esta en el hangar
+05-05-2024 18:01:42 INFO  Main:237: Avion UM-0127 esta en el area de estacionamiento
+05-05-2024 18:01:43 INFO  Main:15: Bus B-0363 es creado
+05-05-2024 18:01:43 INFO  Main:15: Bus B-0364 es creado
+05-05-2024 18:01:44 INFO  Main:15: Bus B-0365 es creado
+05-05-2024 18:01:44 INFO  Main:430: Avion OR-0033 (108 pasajeros) accede a aerovia Barcelona - Madrid
+05-05-2024 18:01:44 INFO  Main:15: Bus B-0366 es creado
+05-05-2024 18:01:45 INFO  Main:166: Bus B-0137 deja 24 en el aeropuerto
+05-05-2024 18:01:45 INFO  Main:15: Bus B-0367 es creado
+05-05-2024 18:01:45 INFO  Main:25: Avión GH-0128 es creado
+05-05-2024 18:01:45 INFO  Main:220: Avion GH-0128 esta en el hangar
+05-05-2024 18:01:45 INFO  Main:237: Avion GH-0128 esta en el area de estacionamiento
+05-05-2024 18:01:46 INFO  Main:15: Bus B-0368 es creado
+05-05-2024 18:01:47 INFO  Main:166: Bus B-0144 deja 49 en el aeropuerto
+05-05-2024 18:01:47 INFO  Main:166: Bus B-0139 deja 39 en el aeropuerto
+05-05-2024 18:01:47 INFO  Main:15: Bus B-0369 es creado
+05-05-2024 18:01:47 INFO  Main:25: Avión FX-0129 es creado
+05-05-2024 18:01:47 INFO  Main:220: Avion FX-0129 esta en el hangar
+05-05-2024 18:01:47 INFO  Main:237: Avion FX-0129 esta en el area de estacionamiento
+05-05-2024 18:01:48 INFO  Main:407: Avion YQ-0031 (127 pasajeros) accede a pista 0 para atterizaje
+05-05-2024 18:01:48 INFO  Main:15: Bus B-0370 es creado
+05-05-2024 18:01:49 INFO  Main:15: Bus B-0371 es creado
+05-05-2024 18:01:49 INFO  Main:357: Avion YQ-0031 esta en el area de rodaje
